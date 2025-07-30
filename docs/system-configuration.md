@@ -1,3 +1,5 @@
+# System configuration
+
 ï»¿ Snigg eMobility - Snigg Charging Manager Documentation - System Configuration
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

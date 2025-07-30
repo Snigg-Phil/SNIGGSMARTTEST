@@ -1,3 +1,5 @@
+# Charging groups
+
 ï»¿ Snigg eMobility - Loading groups
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

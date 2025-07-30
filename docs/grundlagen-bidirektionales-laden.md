@@ -1,3 +1,5 @@
+# Grundlagen bidirektionales laden
+
 ï»¿ Snigg eMobility - Bidirectional charging
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

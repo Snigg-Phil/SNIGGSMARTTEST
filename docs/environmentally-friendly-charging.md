@@ -1,3 +1,5 @@
+# Environmentally friendly charging
+
 ï»¿ Snigg eMobility - Eco Charging - UmweltvertrÃ¤gliches Laden
 
 [![Snigg eMobility GmbH Logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH Logo](/images/cfos-emobility-logo.svg)](/de/index.htm)

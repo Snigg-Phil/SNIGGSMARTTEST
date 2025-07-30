@@ -1,3 +1,5 @@
+# Frequently asked questions
+
 ï»¿ Snigg eMobility - Snigg Charging Manager - Frequently asked questions
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

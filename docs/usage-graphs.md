@@ -1,3 +1,5 @@
+# Usage graphs
+
 ï»¿ Snigg eMobility - Usage graphs
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

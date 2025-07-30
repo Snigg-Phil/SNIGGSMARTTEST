@@ -1,3 +1,5 @@
+# Price list
+
 Snigg Charging Manager
 – Snigg eMobility GmbH
 

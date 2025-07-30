@@ -1,3 +1,5 @@
+# Connecting multiple wallboxes
+
 ï»¿ Snigg eMobility - Installation options/cabling options
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

@@ -1,3 +1,5 @@
+# Cloud
+
 ï»¿ Snigg eMobility - register Snigg Charging Manager on the cloud server
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

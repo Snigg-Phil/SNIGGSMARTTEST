@@ -1,3 +1,5 @@
+# Download
+
 ï»¿ Snigg eMobility - Snigg Charging Manager free trial version
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

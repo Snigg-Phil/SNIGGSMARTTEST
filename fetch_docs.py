@@ -49,7 +49,14 @@ def main():
         html = fetch_page(url)
         content = md(html, heading_style='ATX')
         content = replace_jargon(content)
+
         filename = url.split('/')[-1].replace('.htm', '.md')
+        title = '# ' + filename.replace('-', ' ').replace('.md', '').capitalize()
+
+        # Voeg een titel toe indien er nog geen H1 is
+        if not content.strip().startswith('#'):
+            content = f'{title}\n\n{content}'
+
         save_markdown(f'docs/{filename}', content)
 
 if __name__ == '__main__':

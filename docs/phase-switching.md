@@ -1,3 +1,5 @@
+# Phase switching
+
 ï»¿ Snigg eMobility - Phase switching of the Snigg Snigg Smart Charger
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

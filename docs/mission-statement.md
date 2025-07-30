@@ -1,3 +1,5 @@
+# Mission statement
+
 ï»¿ Snigg eMobility - About Snigg eMobility
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

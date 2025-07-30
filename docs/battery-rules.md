@@ -1,3 +1,5 @@
+# Battery rules
+
 ï»¿ Snigg eMobility - Control of the battery storage
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

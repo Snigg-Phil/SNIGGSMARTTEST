@@ -1,3 +1,5 @@
+# Master slave configuration
+
 ï»¿ Snigg eMobility - Snigg Snigg Smart Charger in Master Slave mode
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

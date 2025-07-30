@@ -1,3 +1,5 @@
+# Out of memory
+
 ï»¿ Snigg eMobility - Remedy memory shortage in the Snigg Snigg Smart Controller
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

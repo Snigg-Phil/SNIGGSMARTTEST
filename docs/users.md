@@ -1,3 +1,5 @@
+# Users
+
 ï»¿ Snigg eMobility - Snigg Charging Manager Documentation - User administration
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

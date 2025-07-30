@@ -1,3 +1,5 @@
+# Grundlagen solares ueberschussladen
+
 ï»¿ Snigg eMobility - PV Surplus Charging (Solar Surplus Charging)
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

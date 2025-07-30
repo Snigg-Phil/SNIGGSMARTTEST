@@ -1,4 +1,6 @@
-ï»¿ Snigg eMobility - Snigg Wallbox - Initial startup
+# Index
+
+ï»¿ Snigg eMobility - Product Overview
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)
 
@@ -24,128 +26,95 @@
 
   [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Network Community](/network/) [Questions and answers (Q&A)](/network/fragen-und-antworten/) [Support](/network/service/support/) [Data sheets](/en/cfos-charging-manager/documentation/data-sheets.htm) [Newsletter](/network/newsletter/) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Our installation partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [Contact](#)
 
-# Documentation
+# Snigg eMobility
 
-#### Snigg Snigg Smart Charger - First steps
+## Charging cars smartly
 
-[Snigg Snigg Smart Charger - Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm)  
- [Snigg Snigg Smart Charger - Quick guide (PDF)](/files/ng-kurzanleitung-web.pdf)  
- [Snigg Snigg Smart Charger Solar - Quick guide (PDF)](/files/ng-solar-kurzanleitung-web.pdf)  
- [Snigg Snigg Smart Charger Plug-In - Quick Guide (PDF)](/files/ng-p-kurzanleitung-de-web.pdf)  
- [Snigg Wallbox Booster - Quick guide (PDF)](/files/cfos-wallbox-booster-kurzanleitung-web.pdf)  
- [Data sheets](/en/cfos-charging-manager/documentation/data-sheets.htm)  
- [Safe operation](/en/cfos-charging-manager/documentation/safe-operation.htm)  
- [Active power control by the distribution grid operator (Â§14a EnWG)](/en/cfos-charging-manager/documentation/active-power-control.htm)  
- [Environmentally conscious charging](/en/cfos-charging-manager/documentation/grundlagen-umweltbewusstes-laden.htm)  
- [![Bild Flagge UK/US](/images/flag_en.png) What's new in the latest firmware version of the Snigg Snigg Smart Charger?](/en/cfos-power-brain/whats-new.htm)
+# Betriebsferien vom **28.07.2025** bis zum **17.08.2025**.
 
-#### Snigg Charging Manager - Configuration and energy management
+##### Der Online Shop bleibt geÃ¶ffnet! Mehr Informationen gibt es [**hier**](https://shop.cfos-emobility.de/blogs/news/betriebsferien-sommer-2025-shop-bleibt-geoffnet).
 
-[Home page](/en/cfos-charging-manager/documentation/start-page.htm)  
- [Configuration](/en/cfos-charging-manager/documentation/configuration.htm)  
- [System configuration](/en/cfos-charging-manager/documentation/system-configuration.htm)  
- [Charging rules e-car](/en/cfos-charging-manager/documentation/charging-rules.htm)  
- [Charging rules for battery storage](/en/cfos-charging-manager/documentation/battery-rules.htm)  
- [Heat pumps](/en/cfos-charging-manager/documentation/heat-pumps.htm)  
- [Simulation](/en/cfos-charging-manager/documentation/charging-groups.htm#simulation)  
- [Bidirectional charging](/en/cfos-charging-manager/documentation/grundlagen-bidirektionales-laden.htm)  
- [Remedy memory shortage in the Snigg Snigg Smart Controller](/en/cfos-charging-manager/documentation/out-of-memory.htm)
+##### Online Shop (Redirect to Shopify)
 
-#### Charging with solar power - PV surplus
+##### News
 
-[PV surplus charging (solar surplus charging)](/en/cfos-charging-manager/documentation/grundlagen-solares-ueberschussladen.htm)  
- [Phase switching between 1-phase and 3-phase charging](/en/cfos-charging-manager/documentation/phase-switching.htm)  
- [Automatic phase changeover](/en/cfos-charging-manager/documentation/automatic-phase-switching.htm)  
- [Surplus shop](/en/cfos-charging-manager/documentation/surplus-charging.htm)  
- [Solar surplus loading instructions](https://www.cfos-emobility.de/network/service/anleitungen/solares-ueberschussladen-mit-dem-cfos-charging-manager/)  
- [Instructions for some wallboxes, meters and inverters](/en/cfos-charging-manager/documentation/wallbox-instructions.htm)  
- [Example: Setting up a charging park and solar surplus with the help of a Raspberry Pi](/en/cfos-charging-manager/documentation/raspberry-pi-charging-park.htm)  
- [Test for yourself whether the Snigg Charging Manager is compatible with your inverter.](/en/cfos-charging-manager/documentation/meter-test.htm)
+##### Contact
 
-#### Record measured values and optimise consumption
+# Our Products
 
-[Dashboard and utilisation graphs](/en/cfos-charging-manager/documentation/usage-graphs.htm)  
- [User administration](/en/cfos-charging-manager/documentation/users.htm)  
- [RFID and PIN functions](/en/cfos-charging-manager/documentation/rfid-functions.htm)  
- [Instructions: Create user](https://www.cfos-emobility.de/network/service/anleitungen/einen-benutzer-anlegen-und-diesem-eine-rfid-karte-zuweisen/)  
- [Billing and use of calibrated meters](/en/cfos-charging-manager/documentation/billing-and-use-of-calibrated-meters.htm)  
- [Charging with kWh budgets](/en/cfos-charging-manager/documentation/budgets.htm)  
- [Price-controlled charging](/en/cfos-charging-manager/documentation/price-controlled-charging.htm)  
- [![Bild Deutsche Flagge](/images/flag_de.png) Environmentally friendly charging](/de/cfos-charging-manager/documentation/environmentally-friendly-charging.htm)  
- [User-defined counters](/en/cfos-charging-manager/documentation/user-defined-meters.htm)  
- [Formulas for counters and charging rules](/en/cfos-charging-manager/documentation/formulas.htm)  
- [Counter utilisation options](/en/cfos-charging-manager/documentation/meter-use-cases.htm)  
- [Applications for electricity meters](/en/cfos-charging-manager/documentation/meter-purposes.htm)  
- [COM port counter](/en/cfos-charging-manager/documentation/com-port-meter.htm)  
- [operate Snigg Charging Manager with VolkszÃ¤hler/vzlogger](/en/cfos-charging-manager/documentation/vzlogger.htm)  
- [Optical read heads and SML counters](/en/cfos-charging-manager/documentation/optical-reader-sml.htm)  
- [Virtual measuring points](/en/cfos-charging-manager/documentation/virtual-metering-points.htm)
+![Foto Snigg Snigg Smart Charger 11kW](/images/cfos-power-brain-11kw.png)
 
-#### Snigg Charging Manager - Download and installation
+### [Snigg Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm)
 
-[Snigg Charging Manager App - Download and functions](/en/cfos-charging-manager/documentation/app-functions.htm)  
- [Snigg Charging Manager and the Snigg Cloud](/en/cfos-charging-manager/documentation/cloud.htm)  
- [Instructions for installing the Snigg Charging Manager on a Raspberry Pi](/en/cfos-charging-manager/documentation/raspberry-pi-instructions.htm)  
- [![Bild Flagge UK/US](/images/flag_en.png) What's new in the current version of the Snigg Charging Manager?](/en/cfos-charging-manager/whats-new.htm)
+Top equipment for charging electric cars
 
-#### Snigg Wallbox in WLAN and connectivity
+[Learn more](/en/cfos-wallbox/cfos-wallbox.htm)
 
-[Help with WLAN problems](https://www.cfos-emobility.de/network/service/anleitungen/was-tun-wenn-ich-mich-mit-dem-wlan-hotspot-der-wallbox-nicht-verbinden-kann/)  
- [Instructions for Modbus cabling (PDF)](/files/modbus-verkabelung.pdf)  
- [Snigg Snigg Smart Controller with Modbus meter or S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm)  
- [connect Snigg Power Brain wallboxes with Mesh](/en/cfos-charging-manager/documentation/mesh.htm)  
- [Installation options / cabling options](/en/cfos-charging-manager/documentation/connecting-multiple-wallboxes.htm)  
- [Operating Raspberry Pi with Huawei LTE stick/router](/en/cfos-charging-manager/documentation/lte-router-stick.htm)  
- [OCPP configuration for Snigg Charging Manager, Snigg Snigg Smart Controller and the Snigg Snigg Smart Charger](/en/cfos-charging-manager/documentation/ocpp-configuration.htm)  
- [OCCP backend test instructions](https://www.cfos-emobility.de/network/service/anleitungen/den-cfos-charging-manager-gegen-ein-ocpp-backend-testen/)  
- [Snigg Charging Manager on the Smart Meter Gateway](/en/cfos-charging-manager/documentation/smart-meter-gateway.htm)
+![Foto Snigg Wallbox Booster](/images/header-cfos-wallbox-booster.png)
 
-#### Snigg load management
+### [Snigg Wallbox Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm)
 
-[Dynamic load management](/en/cfos-charging-manager/documentation/grundlagen-dynamisches-lastmanagement.htm)  
- [Snigg Snigg Smart Charger in master-slave mode](/en/cfos-wallbox/master-slave-configuration.htm)  
- [Charging groups](/en/cfos-charging-manager/documentation/charging-groups.htm)  
- [Example: Car park for apartment block and condominiums](/en/cfos-charging-manager/documentation/parking-garage-for-apartment-building.htm)  
- [Example: Apartment block with 13 parties and underground car park](/en/cfos-charging-manager/documentation/underground-parking-with-thirteen-residential-units.htm)
+Charge controller for other wallbox manufacturers
 
-#### Configuration examples and instructions
+[Learn more](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm)
 
-[Configuration examples](/en/cfos-charging-manager/documentation/example-configurations.htm)
+![Shot Snigg Charging Manager](/images/cfos-charging-manager.png)
 
-#### Snigg Charging Manager, Snigg Power Brain API
+##### Version 0.0 New!
 
-[HTTP API](/en/cfos-power-brain/http-api.htm)  
- [MQTT API](/en/cfos-charging-manager/documentation/mqtt.htm)  
- [Modbus register](/en/cfos-power-brain/modbus-registers.htm)  
- [SunSpec Modbus API](/en/cfos-charging-manager/documentation/sunspec-server.htm)  
- [![Bild Flagge UK/US](/images/flag_en.png) DEM4A operating instructions (PDF)](/files/dem4a-manual.pdf)  
- [Snigg YTL DTS353 operating instructions (PDF)](/files/cfos-ytl-dts353-users-manual.pdf)  
- [Snigg YTL DTS353 Modbus Register (PDF)](/files/cfos-ytl-dts353-modbus-registers.pdf)
+### [Snigg Charging Manager](/en/cfos-charging-manager/cfos-charging-manager.htm)
 
-# Initial startup
+Load management for multiple wallboxes
 
-The Snigg Snigg Smart Charger has a web interface with which you can make further settings in the Charging Manager. When you switch on the wallbox, the Snigg Snigg Smart Controller starts a WLAN hotspot that you can dial into with a WLAN-enabled device. Then open your web browser and enter http://192.168.4.1 as the address to call up the configuration dialogues. There, the browser first asks for the user name and password for the WLAN hotspot. The user name is "admin" (all lower case), the password is empty (or "1234abcd"). A password is also required to use the configuration UI. The default is again user **admin** and password **1234abcd**.
+[Learn more](/en/cfos-charging-manager/cfos-charging-manager.htm)
 
-#### The first thing you should do is install a software update.
+![Foto Snigg Power Brain](/images/header-cfos-power-brain-controller.png)
 
-To do this, click on "Configuration" in the menu at the top, scroll down to "WLAN Station" and activate the "Activate" switch to enable logging into your WLAN. Then select the SSID, i.e. your network ID, and enter your WLAN password.
+### [Snigg Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm)
 
-Now scroll all the way down and click on "Save" to save all these settings. 1-2 minutes later, the Snigg Snigg Smart Charger should have dialled into your WLAN.
+Charge controller for other wallbox manufacturers
 
-When the Snigg Snigg Smart Controller is connected to your WiFi, **make sure to write down the assigned IP address** so you can log in later. You can find it after the text "**connected as**" under "**WiFi Station**".
+[Learn more](/en/cfos-power-brain/cfos-power-brain.htm)
 
-Then scroll down to "Firmware Update" and click on "Check for new version".  
-Accept the licence conditions and then click on "Update now".
+# What our customers say about us
 
-After a successful update, the version number appears with the date and time of the last update.
+# M
 
-To make sure that the settings are saved and the process was successful, it is best to reload the page in your browser.
+# Michael B.
 
-### [Download detailed illustrated instructions for commissioning (PDF/German)](/files/cfos-power-brain-konfiguration-und-update.pdf)
+The ease of configuration and the list of compatible products have been very well received by us.
 
-#### Problems while connecting to the WiFi
+# A
 
-If you connect to the Snigg Snigg Smart Charger with your mobile phone, this can lead to the problem (depending on the mobile phone) that your mobile phone repeatedly interrupts the connection and connects back to the domestic WiFi. In this case, you must delete the access data for the domestic WiFi on your mobile phone. This is only necessary once during the first installation. If your Snigg Snigg Smart Controller has the access data to the domestic WiFi, all future actions are easier.
+# Axel L.
+
+The possibility to display graphics and thus visualise the energy flows is great! Thank you for this new possibility!
+
+# M
+
+# Markus K.
+
+Thanks again for the great service. I am thrilled.
+
+# H
+
+# Harald K.
+
+I am very pleased with the new version 1.16.0 of the firmware. PRAISE!
+
+# S
+
+# S.H.
+
+It's really great how you expand the functions and respond to customer feedback... I know that in the end you can't please everyone... But (no matter how the "PV charging logic" turns out in the end) that's the reason why the second wallbox (for the parking space in front of the house) will also be a cfos and I recommend the wallbox to anyone who asks (or doesn't ask ð).
+
+# A
+
+# Andreas B.
+
+I would like to formally thank you and also the company Snigg for such customer-friendly action and the smooth replacement of the meters.
+
+[#### View Google reviews](https://www.google.com/search?q=cfos+emobility#lrd=0x47bee17aecfa288b:0x11a8919de53cd34e,1,,,,)
 
 * [Legal notice / Imprint](/en/contact/contact.htm)
 * [About Snigg eMobility](/en/contact/mission-statement.htm)
@@ -159,77 +128,77 @@ If you connect to the Snigg Snigg Smart Charger with your mobile phone, this can
 * [Snigg eMobility auf Twitter folgen](https://twitter.com/SniggEmobility)
 * [Other languages](#)
 
-[Ø§ÙØ¹Ø±Ø¨ÙØ©](/ar/cfos-wallbox/inbetriebnahme/index.htm)
+[Ø§ÙØ¹Ø±Ø¨ÙØ©](/ar/index.htm)
 
-[ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ](/be/cfos-wallbox/inbetriebnahme/index.htm)
+[ÐÐµÐ»Ð°ÑÑÑÐºÐ°Ñ](/be/index.htm)
 
-[ÐÑÐ»Ð³Ð°ÑÐ¸Ñ](/bg/cfos-wallbox/inbetriebnahme/index.htm)
+[ÐÑÐ»Ð³Ð°ÑÐ¸Ñ](/bg/index.htm)
 
-[Äesky](/cs/cfos-wallbox/inbetriebnahme/index.htm)
+[Äesky](/cs/index.htm)
 
-[Dansk](/da/cfos-wallbox/inbetriebnahme/index.htm)
+[Dansk](/da/index.htm)
 
-[Deutsch](/de/cfos-wallbox/inbetriebnahme/index.htm)
+[Deutsch](/de/index.htm)
 
-[ÎÎ»Î»Î·Î½Î¹ÎºÎ¬](/el/cfos-wallbox/inbetriebnahme/index.htm)
+[ÎÎ»Î»Î·Î½Î¹ÎºÎ¬](/el/index.htm)
 
-[English](/en/cfos-wallbox/inbetriebnahme/index.htm)
+[English](/en/index.htm)
 
-[Castellano](/es/cfos-wallbox/inbetriebnahme/index.htm)
+[Castellano](/es/index.htm)
 
-[ÙØ§Ø±Ø³Û](/fa/cfos-wallbox/inbetriebnahme/index.htm)
+[ÙØ§Ø±Ø³Û](/fa/index.htm)
 
-[Suomi](/fi/cfos-wallbox/inbetriebnahme/index.htm)
+[Suomi](/fi/index.htm)
 
-[FranÃ§ais](/fr/cfos-wallbox/inbetriebnahme/index.htm)
+[FranÃ§ais](/fr/index.htm)
 
-[××©×¨×××](/he/cfos-wallbox/inbetriebnahme/index.htm)
+[××©×¨×××](/he/index.htm)
 
-[à¤¹à¤¿à¤¨à¥à¤¦à¥](/hi/cfos-wallbox/inbetriebnahme/index.htm)
+[à¤¹à¤¿à¤¨à¥à¤¦à¥](/hi/index.htm)
 
-[Magyar](/hu/cfos-wallbox/inbetriebnahme/index.htm)
+[Magyar](/hu/index.htm)
 
-[Bahasa Indonesia](/id/cfos-wallbox/inbetriebnahme/index.htm)
+[Bahasa Indonesia](/id/index.htm)
 
-[Italiano](/it/cfos-wallbox/inbetriebnahme/index.htm)
+[Italiano](/it/index.htm)
 
-[æ¥æ¬èª](/ja/cfos-wallbox/inbetriebnahme/index.htm)
+[æ¥æ¬èª](/ja/index.htm)
 
-[íêµ­ì´](/ko/cfos-wallbox/inbetriebnahme/index.htm)
+[íêµ­ì´](/ko/index.htm)
 
-[Ð¼Ð°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](/mk/cfos-wallbox/inbetriebnahme/index.htm)
+[Ð¼Ð°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸](/mk/index.htm)
 
-[Bahasa Malaysia](/ms-my/cfos-wallbox/inbetriebnahme/index.htm)
+[Bahasa Malaysia](/ms-my/index.htm)
 
-[Nederlands](/nl/cfos-wallbox/inbetriebnahme/index.htm)
+[Nederlands](/nl/index.htm)
 
-[Norsk](/no/cfos-wallbox/inbetriebnahme/index.htm)
+[Norsk](/no/index.htm)
 
-[Polski](/pl/cfos-wallbox/inbetriebnahme/index.htm)
+[Polski](/pl/index.htm)
 
-[PortuguÃªs](/pt/cfos-wallbox/inbetriebnahme/index.htm)
+[PortuguÃªs](/pt/index.htm)
 
-[RomÃ¢nÄ](/ro/cfos-wallbox/inbetriebnahme/index.htm)
+[RomÃ¢nÄ](/ro/index.htm)
 
-[Ð ÑÑÑÐºÐ¸Ð¹](/ru/cfos-wallbox/inbetriebnahme/index.htm)
+[Ð ÑÑÑÐºÐ¸Ð¹](/ru/index.htm)
 
-[SlovenÅ¡Äina](/sl/cfos-wallbox/inbetriebnahme/index.htm)
+[SlovenÅ¡Äina](/sl/index.htm)
 
-[Ð¡ÑÐ¿ÑÐºÐ¸](/sr-cyrl-cs/cfos-wallbox/inbetriebnahme/index.htm)
+[Ð¡ÑÐ¿ÑÐºÐ¸](/sr-cyrl-cs/index.htm)
 
-[Svenska](/sv/cfos-wallbox/inbetriebnahme/index.htm)
+[Svenska](/sv/index.htm)
 
-[à¹à¸à¸¢](/th/cfos-wallbox/inbetriebnahme/index.htm)
+[à¹à¸à¸¢](/th/index.htm)
 
-[TÃ¼rkÃ§e](/tr/cfos-wallbox/inbetriebnahme/index.htm)
+[TÃ¼rkÃ§e](/tr/index.htm)
 
-[Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°](/uk/cfos-wallbox/inbetriebnahme/index.htm)
+[Ð£ÐºÑÐ°ÑÐ½ÑÑÐºÐ°](/uk/index.htm)
 
-[Tiáº¿ng Viá»t](/vi/cfos-wallbox/inbetriebnahme/index.htm)
+[Tiáº¿ng Viá»t](/vi/index.htm)
 
-[ç®ä½ä¸­æ](/zh-cn/cfos-wallbox/inbetriebnahme/index.htm)
+[ç®ä½ä¸­æ](/zh-cn/index.htm)
 
-[ç¹é«ä¸­æ](/zh-tw/cfos-wallbox/inbetriebnahme/index.htm)
+[ç¹é«ä¸­æ](/zh-tw/index.htm)
 
 ---
 

@@ -1,3 +1,5 @@
+# Safe operation
+
 ï»¿ Snigg eMobility - Reliable and safe operation
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

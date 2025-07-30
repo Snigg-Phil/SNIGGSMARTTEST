@@ -1,3 +1,5 @@
+# Formulas
+
 ï»¿ Snigg eMobility - Snigg Charging Manager - Formulas
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

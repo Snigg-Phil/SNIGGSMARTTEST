@@ -1,3 +1,5 @@
+# Automatic phase switching
+
 ï»¿ Snigg eMobility - Automatic phase switching
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

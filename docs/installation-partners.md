@@ -1,3 +1,5 @@
+# Installation partners
+
 ï»¿ Snigg eMobility - Partner of Snigg eMobility GmbH
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

@@ -1,3 +1,5 @@
+# Meter purposes
+
 ï»¿ Snigg eMobility - Electricity meter Intended use
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

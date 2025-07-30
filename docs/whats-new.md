@@ -1,3 +1,5 @@
+# Whats new
+
 ï»¿ Snigg eMobility - What is new in this version?
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)
@@ -123,7 +125,7 @@
  [Snigg YTL DTS353 Modbus Register (PDF)](/files/cfos-ytl-dts353-modbus-registers.pdf)
 
 ```
-/powerbrain/whats-new.txt
+/charging-manager/whats-new.txt
 ```
 
 * [Legal notice / Imprint](/en/contact/contact.htm)
@@ -138,7 +140,7 @@
 * [Snigg eMobility auf Twitter folgen](https://twitter.com/SniggEmobility)
 * [Other languages](#)
 
-[English](/en/cfos-power-brain/whats-new.htm)
+[English](/en/cfos-charging-manager/whats-new.htm)
 
 ---
 

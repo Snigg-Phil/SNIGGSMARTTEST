@@ -1,3 +1,5 @@
+# Grundlagen dynamisches lastmanagement
+
 ï»¿ Snigg eMobility - Dynamic load management
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)

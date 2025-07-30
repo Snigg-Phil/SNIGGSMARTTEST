@@ -1,3 +1,5 @@
+# Grundlagen umweltbewusstes laden
+
 ï»¿ Snigg eMobility - Environmentally conscious charging
 
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)
