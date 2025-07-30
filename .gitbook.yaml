@@ -1,10 +1,18 @@
 structure:
   root: docs
   files:
-    - snigg-charging-manager.md
-    - snigg-power-brain.md
-    - snigg-wallbox-booster.md
-    - snigg-wallbox.md
+    - path: snigg-charging-manager.md
+      title: Snigg Charging Manager
+      slug: snigg-charging-manager
+    - path: snigg-power-brain.md
+      title: Snigg Smart Controller
+      slug: snigg-power-brain
+    - path: snigg-wallbox-booster.md
+      title: Snigg Wallbox Booster
+      slug: snigg-wallbox-booster
+    - path: snigg-wallbox.md
+      title: Snigg Smart Charger
+      slug: snigg-wallbox
     - active-power-control.md
     - app-functions.md
     - automatic-phase-switching.md
