@@ -1,7 +1,3 @@
-# Mission statement
-
-ï»¿ Snigg eMobility - About Snigg eMobility
-
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)
 
 * [Snigg eMobility](#)
@@ -9,30 +5,33 @@
   [About Snigg eMobility](/en/contact/mission-statement.htm) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [News](https://shop.cfos-emobility.de/blogs/news)
 * [Online Shop](#)
 
-  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Wallbox Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
-* [Snigg Snigg Smart Charger](#)
+  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Smart Charger Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
+* [Snigg Smart Charger](#)
 
-  [Snigg Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
-* [Snigg Wallbox Booster](#)
+  [Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
+* [Snigg Smart Charger Booster](#)
 
-  [Snigg Wallbox Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Charger Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Snigg Charging Manager](#)
 
   [Snigg Charging Manager](/en/cfos-charging-manager/cfos-charging-manager.htm) [Free trial version](/en/cfos-charging-manager/download.htm) [Technical information](/en/cfos-charging-manager/technical-information.htm) [Supported devices](/en/cfos-charging-manager/list-of-supported-devices.htm) [Price list](/en/cfos-charging-manager/price-list.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Environmentally friendly charging](#) [Clever charging functions](/en/cfos-charging-manager/documentation/clever-charging-functions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-charging-manager/whats-new.htm)
-* [Snigg Snigg Smart Controller](#)
+* [Snigg Smart Controller](#)
 
-  [Snigg Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Service](#)
 
   [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Network Community](/network/) [Questions and answers (Q&A)](/network/fragen-und-antworten/) [Support](/network/service/support/) [Data sheets](/en/cfos-charging-manager/documentation/data-sheets.htm) [Newsletter](/network/newsletter/) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Our installation partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [Contact](#)
 
-# About Snigg eMobility
+About Snigg eMobility
+====================
 
-## Who we are
+Who we are
+----------
 
 CFos eMobility GmbH was founded in 2020 with the aim of facilitating access to e-mobility and accelerating the energy transition. We contribute our experience in the field of professional software development, which we have already gained at [Snigg Software GmbH](https://www.cfos.de) and its predecessor. We have been developing and selling network software there since 1993 (including [SniggSpeed](https://atlas-cfosspeed.com/)), which has since been used millions of times worldwide.
 
-## What is important to us
+What is important to us
+-----------------------
 
 We believe that electric mobility is a building block in the fight against climate change and would like to facilitate and accelerate its spread. That's why we build EVSEs for charging electric cars. Furthermore, we offer load management software for the simultaneous charging of an almost unlimited number of electric cars.
 
@@ -48,7 +47,8 @@ We regularly adapt our products to current changes in the market. For the softwa
 We have #thebestuseroftheworld. Our customers give us important feedback and help us with suggestions, tests and the integration of new devices. We are very grateful for this!  
 To stay in touch with our customers, we have the [Snigg Network](/network/).
 
-## Who we work with
+Who we work with
+----------------
 
 Since we cannot achieve our ambitious goals alone, we are interested in partnerships with other companies.  
 Our products are in-house developments and currently cover the following areas:
@@ -57,7 +57,7 @@ Our products are in-house developments and currently cover the following areas:
 * Load management for optimal use of the available power for simultaneous charging of several electric cars
 * OCPP gateway (for connecting non-OCPP-compliant wallboxes) and OCPP backend
 * App with cloud support for Android and iPhone
-* Own charge controller: The Snigg Snigg Smart Controller
+* Own charge controller: The Snigg Smart Controller
 * PV Surplus Charging (Solar Surplus Charging)
 * Communication via smart meter gateway, integration with energy suppliers and grid operators, grid-serving control
 * Transmission of meter readings in conformity with calibration law
@@ -152,7 +152,8 @@ Practice random kindness and senseless acts of beauty
 
 ![Snigg eMobility GmbH Logo](/images/cfos-emobility-logo.svg)
 
-# Cookies
+Cookies
+=======
 
 We use cookies. Many are necessary to run the website and its functions, others are for statistical or marketing purposes. By choosing "Accept essential cookies only" we will respect your privacy and not set cookies that are not necessary for the operation of the site.
 

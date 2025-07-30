@@ -1,7 +1,3 @@
-# Contact
-
-ï»¿ Snigg eMobility - Contact
-
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)
 
 * [Snigg eMobility](#)
@@ -9,38 +5,42 @@
   [About Snigg eMobility](/en/contact/mission-statement.htm) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [News](https://shop.cfos-emobility.de/blogs/news)
 * [Online Shop](#)
 
-  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Wallbox Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
-* [Snigg Snigg Smart Charger](#)
+  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Smart Charger Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
+* [Snigg Smart Charger](#)
 
-  [Snigg Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
-* [Snigg Wallbox Booster](#)
+  [Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
+* [Snigg Smart Charger Booster](#)
 
-  [Snigg Wallbox Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Charger Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Snigg Charging Manager](#)
 
   [Snigg Charging Manager](/en/cfos-charging-manager/cfos-charging-manager.htm) [Free trial version](/en/cfos-charging-manager/download.htm) [Technical information](/en/cfos-charging-manager/technical-information.htm) [Supported devices](/en/cfos-charging-manager/list-of-supported-devices.htm) [Price list](/en/cfos-charging-manager/price-list.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Environmentally friendly charging](#) [Clever charging functions](/en/cfos-charging-manager/documentation/clever-charging-functions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-charging-manager/whats-new.htm)
-* [Snigg Snigg Smart Controller](#)
+* [Snigg Smart Controller](#)
 
-  [Snigg Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Service](#)
 
   [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Network Community](/network/) [Questions and answers (Q&A)](/network/fragen-und-antworten/) [Support](/network/service/support/) [Data sheets](/en/cfos-charging-manager/documentation/data-sheets.htm) [Newsletter](/network/newsletter/) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Our installation partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [Contact](#)
 
-# Contact / Support
+Contact / Support
+=================
 
 For support request or to contact us please use our contact form.
 
-## Legal notice
+Legal notice
+------------
 
 Information pursuant to TDG (German Tele Services Act):
 
-The responsible service provider for www.cfos-emobility.de is Snigg eMobility GmbH, represented by the managing directors Dr Christoph LÃ¼ders and Martin Winkler, Nordstr. 65a, 53111 Bonn, Germany Phone: +49 228-286 985 30, registered in the Bonn commercial register, HRB 25713, VAT identification number DE336459569, email: ![Mail cfos-office *at* cfos-emobility.de](/images/support-link.png).
+The responsible service provider for www.snigg.be is Snigg eMobility GmbH, represented by the managing directors Dr Christoph LÃ¼ders and Martin Winkler, Nordstr. 65a, 53111 Bonn, Germany Phone: +49 228-286 985 30, registered in the Bonn commercial register, HRB 25713, VAT identification number DE336459569, email: ![Mail cfos-office *at* cfos-emobility.de](/images/support-link.png).
 
 ### SniggÂ® is a registered trademark.
 
-# Privacy policy
+Privacy policy
+==============
 
-## 1. Data protection at a glance
+1. Data protection at a glance
+------------------------------
 
 ### General notes
 
@@ -74,7 +74,8 @@ When visiting this website, your surfing behaviour may be statistically evaluate
 
 Detailed information on these analysis programmes can be found in the following data protection declaration.
 
-## 2. General notes and mandatory information
+2. General notes and mandatory information
+------------------------------------------
 
 ### Data protection
 
@@ -95,7 +96,7 @@ Germany
   
 Phone: 0228-286 985 30  
 E-mail: ![Mail cfos-office *at* cfos-emobility.de](/images/support-link.png)  
-Website: www.cfos-emobility.de
+Website: www.snigg.be
 
 The controller is the natural or legal person who alone or jointly with others determines the purposes and means of the processing of personal data (e.g. names, e-mail addresses, etc.).
 
@@ -154,7 +155,8 @@ If you have restricted the processing of your personal data, such data may - apa
 
 The use of contact data published within the scope of the imprint obligation to send advertising and information material that has not been expressly requested is hereby prohibited. The operators of the pages expressly reserve the right to take legal action in the event of the unsolicited sending of advertising information, such as spam e-mails.
 
-## 3. Data collection on this website
+3. Data collection on this website
+----------------------------------
 
 ### Cookies
 
@@ -201,7 +203,8 @@ The processing of this data is based on Art. 6 (1) lit. b DSGVO if your request 
 
 The data you send to us via contact requests will remain with us until you request us to delete it, revoke your consent to store it or the purpose for storing the data no longer applies (e.g. after we have completed processing your request). Mandatory statutory provisions - in particular statutory retention periods - remain unaffected.
 
-## 4. Social media
+4. Social media
+---------------
 
 ### Social media plugins with Shariff
 
@@ -213,7 +216,8 @@ Only when you activate the respective plugin by clicking the associated button, 
 
 Activating the plugin constitutes consent within the meaning of Art. 6 para. 1 lit. a DSGVO and § 25 para. 1 TTDSG. You can revoke this consent at any time with effect for the future.
 
-## 5. Newsletter
+5. Newsletter
+-------------
 
 ### Newsletter data
 
@@ -227,7 +231,8 @@ Data that has been stored by us for other purposes remains unaffected by this.
 
 After you have unsubscribed from the newsletter distribution list, your email address will be stored by us or the newsletter service provider in a blacklist if necessary to prevent future mailings. The data from the blacklist will only be used for this purpose and will not be merged with other data. This serves both your interest and our interest in complying with legal requirements when sending newsletters (legitimate interest within the meaning of Art. 6 Para. 1 lit. f DSGVO). The storage in the blacklist is not limited in time. **You can object to the storage if your interests outweigh our legitimate interest.**
 
-## 6. Plugins and tools
+6. Plugins and tools
+--------------------
 
 ### YouTube
 
@@ -375,7 +380,8 @@ Practice random kindness and senseless acts of beauty
 
 ![Snigg eMobility GmbH Logo](/images/cfos-emobility-logo.svg)
 
-# Cookies
+Cookies
+=======
 
 We use cookies. Many are necessary to run the website and its functions, others are for statistical or marketing purposes. By choosing "Accept essential cookies only" we will respect your privacy and not set cookies that are not necessary for the operation of the site.
 

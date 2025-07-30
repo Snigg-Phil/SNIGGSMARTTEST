@@ -1,7 +1,3 @@
-# Billing and use of calibrated meters
-
-ï»¿ Snigg eMobility - Billing and use of calibrated meters
-
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)
 
 * [Snigg eMobility](#)
@@ -9,37 +5,38 @@
   [About Snigg eMobility](/en/contact/mission-statement.htm) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [News](https://shop.cfos-emobility.de/blogs/news)
 * [Online Shop](#)
 
-  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Wallbox Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
-* [Snigg Snigg Smart Charger](#)
+  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Smart Charger Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
+* [Snigg Smart Charger](#)
 
-  [Snigg Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
-* [Snigg Wallbox Booster](#)
+  [Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
+* [Snigg Smart Charger Booster](#)
 
-  [Snigg Wallbox Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Charger Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Snigg Charging Manager](#)
 
   [Snigg Charging Manager](/en/cfos-charging-manager/cfos-charging-manager.htm) [Free trial version](/en/cfos-charging-manager/download.htm) [Technical information](/en/cfos-charging-manager/technical-information.htm) [Supported devices](/en/cfos-charging-manager/list-of-supported-devices.htm) [Price list](/en/cfos-charging-manager/price-list.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Environmentally friendly charging](#) [Clever charging functions](/en/cfos-charging-manager/documentation/clever-charging-functions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-charging-manager/whats-new.htm)
-* [Snigg Snigg Smart Controller](#)
+* [Snigg Smart Controller](#)
 
-  [Snigg Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Service](#)
 
   [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Network Community](/network/) [Questions and answers (Q&A)](/network/fragen-und-antworten/) [Support](/network/service/support/) [Data sheets](/en/cfos-charging-manager/documentation/data-sheets.htm) [Newsletter](/network/newsletter/) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Our installation partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [Contact](#)
 
-# Documentation
+Documentation
+=============
 
-#### Snigg Snigg Smart Charger - First steps
+#### Snigg Smart Charger - First steps
 
-[Snigg Snigg Smart Charger - Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm)  
- [Snigg Snigg Smart Charger - Quick guide (PDF)](/files/ng-kurzanleitung-web.pdf)  
- [Snigg Snigg Smart Charger Solar - Quick guide (PDF)](/files/ng-solar-kurzanleitung-web.pdf)  
- [Snigg Snigg Smart Charger Plug-In - Quick Guide (PDF)](/files/ng-p-kurzanleitung-de-web.pdf)  
- [Snigg Wallbox Booster - Quick guide (PDF)](/files/cfos-wallbox-booster-kurzanleitung-web.pdf)  
+[Snigg Smart Charger - Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm)  
+ [Snigg Smart Charger - Quick guide (PDF)](/files/ng-kurzanleitung-web.pdf)  
+ [Snigg Smart Charger Solar - Quick guide (PDF)](/files/ng-solar-kurzanleitung-web.pdf)  
+ [Snigg Smart Charger Plug-In - Quick Guide (PDF)](/files/ng-p-kurzanleitung-de-web.pdf)  
+ [Snigg Smart Charger Booster - Quick guide (PDF)](/files/cfos-wallbox-booster-kurzanleitung-web.pdf)  
  [Data sheets](/en/cfos-charging-manager/documentation/data-sheets.htm)  
  [Safe operation](/en/cfos-charging-manager/documentation/safe-operation.htm)  
  [Active power control by the distribution grid operator (Â§14a EnWG)](/en/cfos-charging-manager/documentation/active-power-control.htm)  
  [Environmentally conscious charging](/en/cfos-charging-manager/documentation/grundlagen-umweltbewusstes-laden.htm)  
- [![Bild Flagge UK/US](/images/flag_en.png) What's new in the latest firmware version of the Snigg Snigg Smart Charger?](/en/cfos-power-brain/whats-new.htm)
+ [![Bild Flagge UK/US](/images/flag_en.png) What's new in the latest firmware version of the Snigg Smart Charger?](/en/cfos-power-brain/whats-new.htm)
 
 #### Snigg Charging Manager - Configuration and energy management
 
@@ -51,7 +48,7 @@
  [Heat pumps](/en/cfos-charging-manager/documentation/heat-pumps.htm)  
  [Simulation](/en/cfos-charging-manager/documentation/charging-groups.htm#simulation)  
  [Bidirectional charging](/en/cfos-charging-manager/documentation/grundlagen-bidirektionales-laden.htm)  
- [Remedy memory shortage in the Snigg Snigg Smart Controller](/en/cfos-charging-manager/documentation/out-of-memory.htm)
+ [Remedy memory shortage in the Snigg Smart Controller](/en/cfos-charging-manager/documentation/out-of-memory.htm)
 
 #### Charging with solar power - PV surplus
 
@@ -59,7 +56,7 @@
  [Phase switching between 1-phase and 3-phase charging](/en/cfos-charging-manager/documentation/phase-switching.htm)  
  [Automatic phase changeover](/en/cfos-charging-manager/documentation/automatic-phase-switching.htm)  
  [Surplus shop](/en/cfos-charging-manager/documentation/surplus-charging.htm)  
- [Solar surplus loading instructions](https://www.cfos-emobility.de/network/service/anleitungen/solares-ueberschussladen-mit-dem-cfos-charging-manager/)  
+ [Solar surplus loading instructions](https://www.snigg.be/network/service/anleitungen/solares-ueberschussladen-mit-dem-cfos-charging-manager/)  
  [Instructions for some wallboxes, meters and inverters](/en/cfos-charging-manager/documentation/wallbox-instructions.htm)  
  [Example: Setting up a charging park and solar surplus with the help of a Raspberry Pi](/en/cfos-charging-manager/documentation/raspberry-pi-charging-park.htm)  
  [Test for yourself whether the Snigg Charging Manager is compatible with your inverter.](/en/cfos-charging-manager/documentation/meter-test.htm)
@@ -69,7 +66,7 @@
 [Dashboard and utilisation graphs](/en/cfos-charging-manager/documentation/usage-graphs.htm)  
  [User administration](/en/cfos-charging-manager/documentation/users.htm)  
  [RFID and PIN functions](/en/cfos-charging-manager/documentation/rfid-functions.htm)  
- [Instructions: Create user](https://www.cfos-emobility.de/network/service/anleitungen/einen-benutzer-anlegen-und-diesem-eine-rfid-karte-zuweisen/)  
+ [Instructions: Create user](https://www.snigg.be/network/service/anleitungen/einen-benutzer-anlegen-und-diesem-eine-rfid-karte-zuweisen/)  
  [Billing and use of calibrated meters](/en/cfos-charging-manager/documentation/billing-and-use-of-calibrated-meters.htm)  
  [Charging with kWh budgets](/en/cfos-charging-manager/documentation/budgets.htm)  
  [Price-controlled charging](/en/cfos-charging-manager/documentation/price-controlled-charging.htm)  
@@ -90,22 +87,22 @@
  [Instructions for installing the Snigg Charging Manager on a Raspberry Pi](/en/cfos-charging-manager/documentation/raspberry-pi-instructions.htm)  
  [![Bild Flagge UK/US](/images/flag_en.png) What's new in the current version of the Snigg Charging Manager?](/en/cfos-charging-manager/whats-new.htm)
 
-#### Snigg Wallbox in WLAN and connectivity
+#### Snigg Smart Charger in WLAN and connectivity
 
-[Help with WLAN problems](https://www.cfos-emobility.de/network/service/anleitungen/was-tun-wenn-ich-mich-mit-dem-wlan-hotspot-der-wallbox-nicht-verbinden-kann/)  
+[Help with WLAN problems](https://www.snigg.be/network/service/anleitungen/was-tun-wenn-ich-mich-mit-dem-wlan-hotspot-der-wallbox-nicht-verbinden-kann/)  
  [Instructions for Modbus cabling (PDF)](/files/modbus-verkabelung.pdf)  
- [Snigg Snigg Smart Controller with Modbus meter or S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm)  
- [connect Snigg Power Brain wallboxes with Mesh](/en/cfos-charging-manager/documentation/mesh.htm)  
+ [Snigg Smart Controller with Modbus meter or S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm)  
+ [connect Snigg Smart Controller wallboxes with Mesh](/en/cfos-charging-manager/documentation/mesh.htm)  
  [Installation options / cabling options](/en/cfos-charging-manager/documentation/connecting-multiple-wallboxes.htm)  
  [Operating Raspberry Pi with Huawei LTE stick/router](/en/cfos-charging-manager/documentation/lte-router-stick.htm)  
- [OCPP configuration for Snigg Charging Manager, Snigg Snigg Smart Controller and the Snigg Snigg Smart Charger](/en/cfos-charging-manager/documentation/ocpp-configuration.htm)  
- [OCCP backend test instructions](https://www.cfos-emobility.de/network/service/anleitungen/den-cfos-charging-manager-gegen-ein-ocpp-backend-testen/)  
+ [OCPP configuration for Snigg Charging Manager, Snigg Smart Controller and the Snigg Smart Charger](/en/cfos-charging-manager/documentation/ocpp-configuration.htm)  
+ [OCCP backend test instructions](https://www.snigg.be/network/service/anleitungen/den-cfos-charging-manager-gegen-ein-ocpp-backend-testen/)  
  [Snigg Charging Manager on the Smart Meter Gateway](/en/cfos-charging-manager/documentation/smart-meter-gateway.htm)
 
 #### Snigg load management
 
 [Dynamic load management](/en/cfos-charging-manager/documentation/grundlagen-dynamisches-lastmanagement.htm)  
- [Snigg Snigg Smart Charger in master-slave mode](/en/cfos-wallbox/master-slave-configuration.htm)  
+ [Snigg Smart Charger in master-slave mode](/en/cfos-wallbox/master-slave-configuration.htm)  
  [Charging groups](/en/cfos-charging-manager/documentation/charging-groups.htm)  
  [Example: Car park for apartment block and condominiums](/en/cfos-charging-manager/documentation/parking-garage-for-apartment-building.htm)  
  [Example: Apartment block with 13 parties and underground car park](/en/cfos-charging-manager/documentation/underground-parking-with-thirteen-residential-units.htm)
@@ -114,7 +111,7 @@
 
 [Configuration examples](/en/cfos-charging-manager/documentation/example-configurations.htm)
 
-#### Snigg Charging Manager, Snigg Power Brain API
+#### Snigg Charging Manager, Snigg Smart Controller API
 
 [HTTP API](/en/cfos-power-brain/http-api.htm)  
  [MQTT API](/en/cfos-charging-manager/documentation/mqtt.htm)  
@@ -124,13 +121,15 @@
  [Snigg YTL DTS353 operating instructions (PDF)](/files/cfos-ytl-dts353-users-manual.pdf)  
  [Snigg YTL DTS353 Modbus Register (PDF)](/files/cfos-ytl-dts353-modbus-registers.pdf)
 
-# Billing and use of calibrated meters
+Billing and use of calibrated meters
+====================================
 
 The MessEV and MessEG stipulate that calibrated meters must be used for official billing purposes. In the EU, MID-certified meters are considered calibrated. MID certification can be recognised by the 'M' enclosed in a rectangle with the last two digits of the year of manufacture. The number of the certification authority can be found to the right of the rectangle.
 
-The Snigg Snigg Smart Chargeres are supplied as standard with MID-certified, i.e. calibrated, meters and are optionally available with a viewing window. This also ensures that the meter is easy to read as required by calibration law. A photo of the meter is generally sufficient as proof of the meter reading. This form of meter reading and billing is suitable in all contexts in which the Charging Column Ordinance does not apply. From 13 April 2024, the Charging Points Ordinance will be replaced by an EU-wide regulation, the AFIR (Alternative Fuels Infrastructure Regulation). We therefore only refer to the AFIR in the following.
+The Snigg Smart Chargeres are supplied as standard with MID-certified, i.e. calibrated, meters and are optionally available with a viewing window. This also ensures that the meter is easy to read as required by calibration law. A photo of the meter is generally sufficient as proof of the meter reading. This form of meter reading and billing is suitable in all contexts in which the Charging Column Ordinance does not apply. From 13 April 2024, the Charging Points Ordinance will be replaced by an EU-wide regulation, the AFIR (Alternative Fuels Infrastructure Regulation). We therefore only refer to the AFIR in the following.
 
-# In which situations does the AFIR (was the charging station ordinance) apply and when does it not?
+In which situations does the AFIR (was the charging station ordinance) apply and when does it not?
+==================================================================================================
 
 The AFIR applies to public charging points for spot (ad-hoc) charging. Spot charging means charging as at a petrol station, without prior registration with a provider. Public charging points are those that are operated on public or private land and that anyone can access without prior registration, such as charging points at motorway service stations or in supermarket car parks. If the charging points are located on a site that can only be accessed by authorised persons, the AFIR does not apply. Such areas include
 
@@ -145,17 +144,20 @@ In particular, the AFIR does not apply when charging company cars at the employe
   
 **Wallboxes that comply with calibration law are therefore only necessary within the scope of the AFIR!**
 
-# Billing of charging processes of several persons at one EVSE
+Billing of charging processes of several persons at one EVSE
+============================================================
 
 The Snigg Charging Manager offers a transaction log for billing charging processes of different users at a wallbox, in which the user IDs and RFIDs or PINs of the users, including the charged kWh, are saved in the form of a CSV file. This can be analysed automatically and loaded into Excel, for example. In many situations, this should be sufficient to create useful invoices. Specific proof of the charging processes can be provided with meter photos if necessary, e.g. if the charging current is to be billed to the car park tenants once a year in a residential complex. If individual charging processes are to be recorded "forgery-proof", the Snigg Charging Manager can either sign the charging processes itself or create files with the help of a signing meter, which can later be checked using verification software, see explanation below. Optionally, all charging processes can be forwarded to an OCPP billing backend. The signed meter readings of "calibration-compliant" wallboxes are then also forwarded accordingly. These signed meter readings then replace the handling of meter photos.
 
-# Transmitting signed meter readings to a billing backend
+Transmitting signed meter readings to a billing backend
+=======================================================
 
 The Snigg Charging Manager can use the Lovato DMED341MID7E signing meter and the EMH iML e-moc to record charging processes in compliance with calibration law and transmit them to a billing backend. This can then generate calibration-compliant invoices that can be verified using the S.A.F.E. programme. To do this, you must install the meter (available from us) in a small distributor housing near the wallbox and seal the housing and the Modbus cabling if necessary. In the Snigg Charging Manager, attach the signing meter to the wallbox whose charging processes you want to sign. In addition, set the option "Save externally signed meter readings" for the wallbox. The Snigg Charging Manager then proceeds as follows: Charging is deactivated until a car has been plugged in and charging has been authorised, e.g. using RFID. Before charging is activated, the Charging Manager generates a signed meter reading. The transaction continues until the car is unplugged. After unplugging and deactivating the wallbox, the Snigg Charging Manager generates another signed meter reading. Both meter readings are then forwarded to an OCPP backend as a data stream that complies with calibration law and are also stored in the Charging Manager itself in a form that can be verified by S.A.F.E. so that you can download them under "Users" â "Charging processes" and present them to your employer or the tax office, for example.  
   
-This constellation allows the use of wallboxes that do not comply with calibration law, in particular the Snigg Snigg Smart Charger. The legal-for-trade inspection of wallboxes actually only relates to public charging points. Among other things, it is checked that only the kWh charged into the car are recorded with the calibration law-compliant billing data. However, in many applications, e.g. when charging a company car at home, the operating costs of the wallbox are also billed and reimbursed. The employer only needs plausible data for the tax office, such as meter photos or signed meter readings, which can then be analysed automatically.
+This constellation allows the use of wallboxes that do not comply with calibration law, in particular the Snigg Smart Charger. The legal-for-trade inspection of wallboxes actually only relates to public charging points. Among other things, it is checked that only the kWh charged into the car are recorded with the calibration law-compliant billing data. However, in many applications, e.g. when charging a company car at home, the operating costs of the wallbox are also billed and reimbursed. The employer only needs plausible data for the tax office, such as meter photos or signed meter readings, which can then be analysed automatically.
 
-# Saving and checking meter readings in compliance with calibration regulations
+Saving and checking meter readings in compliance with calibration regulations
+=============================================================================
 
 This function allows you to bill with the Snigg Charging Manager in compliance with calibration law - without having to use an additional external OCPP backend.
 
@@ -256,7 +258,8 @@ Practice random kindness and senseless acts of beauty
 
 ![Snigg eMobility GmbH Logo](/images/cfos-emobility-logo.svg)
 
-# Cookies
+Cookies
+=======
 
 We use cookies. Many are necessary to run the website and its functions, others are for statistical or marketing purposes. By choosing "Accept essential cookies only" we will respect your privacy and not set cookies that are not necessary for the operation of the site.
 

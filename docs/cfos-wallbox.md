@@ -1,7 +1,3 @@
-# Cfos wallbox
-
-ï»¿ Snigg eMobility - The Snigg Wallboxes
-
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)
 
 * [Snigg eMobility](#)
@@ -9,29 +5,30 @@
   [About Snigg eMobility](/en/contact/mission-statement.htm) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [News](https://shop.cfos-emobility.de/blogs/news)
 * [Online Shop](#)
 
-  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Wallbox Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
-* [Snigg Snigg Smart Charger](#)
+  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Smart Charger Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
+* [Snigg Smart Charger](#)
 
-  [Snigg Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
-* [Snigg Wallbox Booster](#)
+  [Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
+* [Snigg Smart Charger Booster](#)
 
-  [Snigg Wallbox Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Charger Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Snigg Charging Manager](#)
 
   [Snigg Charging Manager](/en/cfos-charging-manager/cfos-charging-manager.htm) [Free trial version](/en/cfos-charging-manager/download.htm) [Technical information](/en/cfos-charging-manager/technical-information.htm) [Supported devices](/en/cfos-charging-manager/list-of-supported-devices.htm) [Price list](/en/cfos-charging-manager/price-list.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Environmentally friendly charging](#) [Clever charging functions](/en/cfos-charging-manager/documentation/clever-charging-functions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-charging-manager/whats-new.htm)
-* [Snigg Snigg Smart Controller](#)
+* [Snigg Smart Controller](#)
 
-  [Snigg Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Service](#)
 
   [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Network Community](/network/) [Questions and answers (Q&A)](/network/fragen-und-antworten/) [Support](/network/service/support/) [Data sheets](/en/cfos-charging-manager/documentation/data-sheets.htm) [Newsletter](/network/newsletter/) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Our installation partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [Contact](#)
 
-# Betriebsferien vom **28.07.2025** bis zum **17.08.2025**.
+Betriebsferien vom **28.07.2025** bis zum **17.08.2025**.
+=========================================================
 
 ##### Der Online Shop bleibt geÃ¶ffnet! Mehr Informationen gibt es [**hier**](https://shop.cfos-emobility.de/blogs/news/betriebsferien-sommer-2025-shop-bleibt-geoffnet).
 
 ![
-                              Photo Snigg Wallbox on brick wall
+                              Photo Snigg Smart Charger on brick wall
                            ](/images/cfos-wallbox-carousel-photo-1_sm.jpg)
 
 ![
@@ -52,9 +49,11 @@
 
 ### Record and optimise energy consumption
 
-# The Snigg Snigg Smart Chargeres
+The Snigg Smart Chargeres
+==============================
 
-## The Snigg Power Brain wallboxes have the most comprehensive software equipment on the market. Already included:
+The Snigg Smart Controller wallboxes have the most comprehensive software equipment on the market. Already included:
+--------------------------------------------------------------------------------------------------------------
 
 ### BulletSimple commissioning
 
@@ -74,7 +73,7 @@ Charge your car  [with the electricity from your solar system](/en/cfos-charging
 
 ### BulletPhase switching between single-phase and three-phase charging
 
-[Phase switching](/en/cfos-charging-manager/documentation/phase-switching.htm) possible with the "Snigg Power Brain Solar" models.  
+[Phase switching](/en/cfos-charging-manager/documentation/phase-switching.htm) possible with the "Snigg Smart Controller Solar" models.  
 Now also with  [automatic phase switching](/en/cfos-charging-manager/documentation/automatic-phase-switching.htm)!
 
 ### BulletConnect multiple wallboxes using WLAN Mesh
@@ -97,60 +96,75 @@ The Snigg Charging Manager has
  [Smart meter gateway](/en/cfos-charging-manager/documentation/smart-meter-gateway.htm)  
  [Active power control Â§14a EnWG](/en/cfos-charging-manager/documentation/active-power-control.htm)
 
-## All models eligible for subsidies under [KfW 442 (solar power for electric cars)](https://www.kfw.de/inlandsfoerderung/Privatpersonen/Bestehende-Immobilie/F%C3%B6rderprodukte/Solarstrom-f%C3%BCr-Elektroautos-(442)/)
+All models eligible for subsidies under [KfW 442 (solar power for electric cars)](https://www.kfw.de/inlandsfoerderung/Privatpersonen/Bestehende-Immobilie/F%C3%B6rderprodukte/Solarstrom-f%C3%BCr-Elektroautos-(442)/)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### **Up to 1000 euros extra payment**: [**current subsidy programme in NRW**](https://www.elektromobilitaet.nrw/privatpersonen/foerderung-fuer-privatpersonen/)
 
-### Snigg Power Brain Solar with additional contactor for [phase switching](/en/cfos-charging-manager/documentation/phase-switching.htm).
+### Snigg Smart Controller Solar with additional contactor for [phase switching](/en/cfos-charging-manager/documentation/phase-switching.htm).
 
 Especially for solar surplus charging. Switchable from three-phase charging to single-phase charging so that you can utilise your solar surplus when solar radiation is low.
 
-**buy Snigg Power Brain Solar now  
+**buy Snigg Smart Controller Solar now  
 (Redirect to Shopify)**
 
 ### **Score 1.4 (VERY GOOD)** in the ["HAUS & GARTEN TEST 04/24" test report](https://www.haus-garten-test.de/test/testberichtegartenoutdoor/18-wallboxen-im-test-2024/)
 
-# What our customers say about us
+What our customers say about us
+===============================
 
-# M
+M
+=
 
-# Michael B.
+Michael B.
+==========
 
 The ease of configuration and the list of compatible products have been very well received by us.
 
-# A
+A
+=
 
-# Axel L.
+Axel L.
+=======
 
 The possibility to display graphics and thus visualise the energy flows is great! Thank you for this new possibility!
 
-# M
+M
+=
 
-# Markus K.
+Markus K.
+=========
 
 Thanks again for the great service. I am thrilled.
 
-# H
+H
+=
 
-# Harald K.
+Harald K.
+=========
 
 I am very pleased with the new version 1.16.0 of the firmware. PRAISE!
 
-# S
+S
+=
 
-# S.H.
+S.H.
+====
 
 It's really great how you expand the functions and respond to customer feedback... I know that in the end you can't please everyone... But (no matter how the "PV charging logic" turns out in the end) that's the reason why the second wallbox (for the parking space in front of the house) will also be a cfos and I recommend the wallbox to anyone who asks (or doesn't ask ð).
 
-# A
+A
+=
 
-# Andreas B.
+Andreas B.
+==========
 
 I would like to formally thank you and also the company Snigg for such customer-friendly action and the smooth replacement of the meters.
 
 [#### View Google reviews](https://www.google.com/search?q=cfos+emobility#lrd=0x47bee17aecfa288b:0x11a8919de53cd34e,1,,,,)
 
-## Equipment
+Equipment
+---------
 
 * Wallbox (three-phase, single-phase charging also possible), max. charging current per phase 16A or 32A, 5m or 7m charging cable (black) with type 2 plug, integrated DC sensor, RFID reader, power consumption standby < 2W, housing suitable for outdoor use
 * MID certified (calibrated) Modbus meter
@@ -168,18 +182,21 @@ I would like to formally thank you and also the company Snigg for such customer-
 * Housing made from 100% recycled plastic
 * For private customers: 30-day money-back guarantee: so that you have enough time to have the wallbox connected by your electrician and to test it extensively
 
-#### [Review of the Snigg Snigg Smart Charger in **heise+** (paywall)](https://www.heise.de/ratgeber/Anpassbare-Elektroauto-Wallboxen-mit-KfW-Foerderung-im-Vergleich-6049116.html)
+#### [Review of the Snigg Smart Charger in **heise+** (paywall)](https://www.heise.de/ratgeber/Anpassbare-Elektroauto-Wallboxen-mit-KfW-Foerderung-im-Vergleich-6049116.html)
 
-## Do you have questions about Snigg wallboxes?
+Do you have questions about Snigg wallboxes?
+-------------------------------------------
 
- [Questions and answers about the Snigg Snigg Smart Chargeres, Snigg Snigg Smart Controller and Snigg Charging Manager](/en/cfos-charging-manager/frequently-asked-questions.htm)  
- [Technical information about the Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox-more.htm)
+ [Questions and answers about the Snigg Smart Chargeres, Snigg Smart Controller and Snigg Charging Manager](/en/cfos-charging-manager/frequently-asked-questions.htm)  
+ [Technical information about the Power Brain Wallbox](/en/cfos-wallbox/cfos-wallbox-more.htm)
 
-## Documentation
+Documentation
+-------------
 
- [Here you can find instructions and help for Snigg Snigg Smart Charger, Snigg Snigg Smart Controller and Snigg Charging Manager](/en/cfos-charging-manager/documentation/documentation-links.htm)
+ [Here you can find instructions and help for Snigg Smart Charger, Snigg Smart Controller and Snigg Charging Manager](/en/cfos-charging-manager/documentation/documentation-links.htm)
 
-## Your question has not been answered?
+Your question has not been answered?
+------------------------------------
 
  [Contact us](/network/service/support/)
 
@@ -273,7 +290,8 @@ Practice random kindness and senseless acts of beauty
 
 ![Snigg eMobility GmbH Logo](/images/cfos-emobility-logo.svg)
 
-# Cookies
+Cookies
+=======
 
 We use cookies. Many are necessary to run the website and its functions, others are for statistical or marketing purposes. By choosing "Accept essential cookies only" we will respect your privacy and not set cookies that are not necessary for the operation of the site.
 

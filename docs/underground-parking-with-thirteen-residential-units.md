@@ -1,7 +1,3 @@
-# Underground parking with thirteen residential units
-
-ï»¿ Snigg eMobility - Apartment house with 13 parties and underground car park
-
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)
 
 * [Snigg eMobility](#)
@@ -9,37 +5,38 @@
   [About Snigg eMobility](/en/contact/mission-statement.htm) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [News](https://shop.cfos-emobility.de/blogs/news)
 * [Online Shop](#)
 
-  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Wallbox Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
-* [Snigg Snigg Smart Charger](#)
+  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Smart Charger Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
+* [Snigg Smart Charger](#)
 
-  [Snigg Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
-* [Snigg Wallbox Booster](#)
+  [Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
+* [Snigg Smart Charger Booster](#)
 
-  [Snigg Wallbox Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Charger Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Snigg Charging Manager](#)
 
   [Snigg Charging Manager](/en/cfos-charging-manager/cfos-charging-manager.htm) [Free trial version](/en/cfos-charging-manager/download.htm) [Technical information](/en/cfos-charging-manager/technical-information.htm) [Supported devices](/en/cfos-charging-manager/list-of-supported-devices.htm) [Price list](/en/cfos-charging-manager/price-list.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Environmentally friendly charging](#) [Clever charging functions](/en/cfos-charging-manager/documentation/clever-charging-functions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-charging-manager/whats-new.htm)
-* [Snigg Snigg Smart Controller](#)
+* [Snigg Smart Controller](#)
 
-  [Snigg Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Service](#)
 
   [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Network Community](/network/) [Questions and answers (Q&A)](/network/fragen-und-antworten/) [Support](/network/service/support/) [Data sheets](/en/cfos-charging-manager/documentation/data-sheets.htm) [Newsletter](/network/newsletter/) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Our installation partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [Contact](#)
 
-# Documentation
+Documentation
+=============
 
-#### Snigg Snigg Smart Charger - First steps
+#### Snigg Smart Charger - First steps
 
-[Snigg Snigg Smart Charger - Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm)  
- [Snigg Snigg Smart Charger - Quick guide (PDF)](/files/ng-kurzanleitung-web.pdf)  
- [Snigg Snigg Smart Charger Solar - Quick guide (PDF)](/files/ng-solar-kurzanleitung-web.pdf)  
- [Snigg Snigg Smart Charger Plug-In - Quick Guide (PDF)](/files/ng-p-kurzanleitung-de-web.pdf)  
- [Snigg Wallbox Booster - Quick guide (PDF)](/files/cfos-wallbox-booster-kurzanleitung-web.pdf)  
+[Snigg Smart Charger - Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm)  
+ [Snigg Smart Charger - Quick guide (PDF)](/files/ng-kurzanleitung-web.pdf)  
+ [Snigg Smart Charger Solar - Quick guide (PDF)](/files/ng-solar-kurzanleitung-web.pdf)  
+ [Snigg Smart Charger Plug-In - Quick Guide (PDF)](/files/ng-p-kurzanleitung-de-web.pdf)  
+ [Snigg Smart Charger Booster - Quick guide (PDF)](/files/cfos-wallbox-booster-kurzanleitung-web.pdf)  
  [Data sheets](/en/cfos-charging-manager/documentation/data-sheets.htm)  
  [Safe operation](/en/cfos-charging-manager/documentation/safe-operation.htm)  
  [Active power control by the distribution grid operator (Â§14a EnWG)](/en/cfos-charging-manager/documentation/active-power-control.htm)  
  [Environmentally conscious charging](/en/cfos-charging-manager/documentation/grundlagen-umweltbewusstes-laden.htm)  
- [![Bild Flagge UK/US](/images/flag_en.png) What's new in the latest firmware version of the Snigg Snigg Smart Charger?](/en/cfos-power-brain/whats-new.htm)
+ [![Bild Flagge UK/US](/images/flag_en.png) What's new in the latest firmware version of the Snigg Smart Charger?](/en/cfos-power-brain/whats-new.htm)
 
 #### Snigg Charging Manager - Configuration and energy management
 
@@ -51,7 +48,7 @@
  [Heat pumps](/en/cfos-charging-manager/documentation/heat-pumps.htm)  
  [Simulation](/en/cfos-charging-manager/documentation/charging-groups.htm#simulation)  
  [Bidirectional charging](/en/cfos-charging-manager/documentation/grundlagen-bidirektionales-laden.htm)  
- [Remedy memory shortage in the Snigg Snigg Smart Controller](/en/cfos-charging-manager/documentation/out-of-memory.htm)
+ [Remedy memory shortage in the Snigg Smart Controller](/en/cfos-charging-manager/documentation/out-of-memory.htm)
 
 #### Charging with solar power - PV surplus
 
@@ -59,7 +56,7 @@
  [Phase switching between 1-phase and 3-phase charging](/en/cfos-charging-manager/documentation/phase-switching.htm)  
  [Automatic phase changeover](/en/cfos-charging-manager/documentation/automatic-phase-switching.htm)  
  [Surplus shop](/en/cfos-charging-manager/documentation/surplus-charging.htm)  
- [Solar surplus loading instructions](https://www.cfos-emobility.de/network/service/anleitungen/solares-ueberschussladen-mit-dem-cfos-charging-manager/)  
+ [Solar surplus loading instructions](https://www.snigg.be/network/service/anleitungen/solares-ueberschussladen-mit-dem-cfos-charging-manager/)  
  [Instructions for some wallboxes, meters and inverters](/en/cfos-charging-manager/documentation/wallbox-instructions.htm)  
  [Example: Setting up a charging park and solar surplus with the help of a Raspberry Pi](/en/cfos-charging-manager/documentation/raspberry-pi-charging-park.htm)  
  [Test for yourself whether the Snigg Charging Manager is compatible with your inverter.](/en/cfos-charging-manager/documentation/meter-test.htm)
@@ -69,7 +66,7 @@
 [Dashboard and utilisation graphs](/en/cfos-charging-manager/documentation/usage-graphs.htm)  
  [User administration](/en/cfos-charging-manager/documentation/users.htm)  
  [RFID and PIN functions](/en/cfos-charging-manager/documentation/rfid-functions.htm)  
- [Instructions: Create user](https://www.cfos-emobility.de/network/service/anleitungen/einen-benutzer-anlegen-und-diesem-eine-rfid-karte-zuweisen/)  
+ [Instructions: Create user](https://www.snigg.be/network/service/anleitungen/einen-benutzer-anlegen-und-diesem-eine-rfid-karte-zuweisen/)  
  [Billing and use of calibrated meters](/en/cfos-charging-manager/documentation/billing-and-use-of-calibrated-meters.htm)  
  [Charging with kWh budgets](/en/cfos-charging-manager/documentation/budgets.htm)  
  [Price-controlled charging](/en/cfos-charging-manager/documentation/price-controlled-charging.htm)  
@@ -90,22 +87,22 @@
  [Instructions for installing the Snigg Charging Manager on a Raspberry Pi](/en/cfos-charging-manager/documentation/raspberry-pi-instructions.htm)  
  [![Bild Flagge UK/US](/images/flag_en.png) What's new in the current version of the Snigg Charging Manager?](/en/cfos-charging-manager/whats-new.htm)
 
-#### Snigg Wallbox in WLAN and connectivity
+#### Snigg Smart Charger in WLAN and connectivity
 
-[Help with WLAN problems](https://www.cfos-emobility.de/network/service/anleitungen/was-tun-wenn-ich-mich-mit-dem-wlan-hotspot-der-wallbox-nicht-verbinden-kann/)  
+[Help with WLAN problems](https://www.snigg.be/network/service/anleitungen/was-tun-wenn-ich-mich-mit-dem-wlan-hotspot-der-wallbox-nicht-verbinden-kann/)  
  [Instructions for Modbus cabling (PDF)](/files/modbus-verkabelung.pdf)  
- [Snigg Snigg Smart Controller with Modbus meter or S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm)  
- [connect Snigg Power Brain wallboxes with Mesh](/en/cfos-charging-manager/documentation/mesh.htm)  
+ [Snigg Smart Controller with Modbus meter or S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm)  
+ [connect Snigg Smart Controller wallboxes with Mesh](/en/cfos-charging-manager/documentation/mesh.htm)  
  [Installation options / cabling options](/en/cfos-charging-manager/documentation/connecting-multiple-wallboxes.htm)  
  [Operating Raspberry Pi with Huawei LTE stick/router](/en/cfos-charging-manager/documentation/lte-router-stick.htm)  
- [OCPP configuration for Snigg Charging Manager, Snigg Snigg Smart Controller and the Snigg Snigg Smart Charger](/en/cfos-charging-manager/documentation/ocpp-configuration.htm)  
- [OCCP backend test instructions](https://www.cfos-emobility.de/network/service/anleitungen/den-cfos-charging-manager-gegen-ein-ocpp-backend-testen/)  
+ [OCPP configuration for Snigg Charging Manager, Snigg Smart Controller and the Snigg Smart Charger](/en/cfos-charging-manager/documentation/ocpp-configuration.htm)  
+ [OCCP backend test instructions](https://www.snigg.be/network/service/anleitungen/den-cfos-charging-manager-gegen-ein-ocpp-backend-testen/)  
  [Snigg Charging Manager on the Smart Meter Gateway](/en/cfos-charging-manager/documentation/smart-meter-gateway.htm)
 
 #### Snigg load management
 
 [Dynamic load management](/en/cfos-charging-manager/documentation/grundlagen-dynamisches-lastmanagement.htm)  
- [Snigg Snigg Smart Charger in master-slave mode](/en/cfos-wallbox/master-slave-configuration.htm)  
+ [Snigg Smart Charger in master-slave mode](/en/cfos-wallbox/master-slave-configuration.htm)  
  [Charging groups](/en/cfos-charging-manager/documentation/charging-groups.htm)  
  [Example: Car park for apartment block and condominiums](/en/cfos-charging-manager/documentation/parking-garage-for-apartment-building.htm)  
  [Example: Apartment block with 13 parties and underground car park](/en/cfos-charging-manager/documentation/underground-parking-with-thirteen-residential-units.htm)
@@ -114,7 +111,7 @@
 
 [Configuration examples](/en/cfos-charging-manager/documentation/example-configurations.htm)
 
-#### Snigg Charging Manager, Snigg Power Brain API
+#### Snigg Charging Manager, Snigg Smart Controller API
 
 [HTTP API](/en/cfos-power-brain/http-api.htm)  
  [MQTT API](/en/cfos-charging-manager/documentation/mqtt.htm)  
@@ -124,7 +121,8 @@
  [Snigg YTL DTS353 operating instructions (PDF)](/files/cfos-ytl-dts353-users-manual.pdf)  
  [Snigg YTL DTS353 Modbus Register (PDF)](/files/cfos-ytl-dts353-modbus-registers.pdf)
 
-# Apartment house with 13 parties and underground car park
+Apartment house with 13 parties and underground car park
+========================================================
 
 ![Figure Connection and charging infrastructure](/images/underground-parking-example.png)
 
@@ -142,19 +140,20 @@ Every year, the meter readings are read in the web interface of the Snigg Chargi
 
 Load management takes place via the Snigg Charging Manager on a Raspberry PI. All EVSEs are Snigg 22kW EVSEs connected via two-wire (Modbus RTU). Alternatively or in a mixed configuration, ABL eMH1, Heidelberg Energy Control or EVSE with the EVRacing WB DIN Modbus controller (e.g. Stark in Strom) could also be used. A mixed configuration of these devices is also possible.
 
-The Raspberry PI is connected to the internet via the router in the house. Alternatively, it could also be connected to an [LTE router](/en/cfos-charging-manager/documentation/lte-router-stick.htm). There are 2 [modbus adapters](https://shop.cfos-emobility.de/products/modbus-kit) on the Raspberry, with which 2 separate modbuses can be realised. Because of the cable lengths of approx. 60m, twisted cables (e.g. wire pairs of Cat5 or Cat7 cables) and terminating resistors at the bus ends are recommended. To protect the Raspberry, the RS-485 adapters are operated with USB isolators. All meters (1x ABB B24 + 13x ABB B23) are located on bus 1, all Snigg Power Brain wallboxes are located on bus 2.
+The Raspberry PI is connected to the internet via the router in the house. Alternatively, it could also be connected to an [LTE router](/en/cfos-charging-manager/documentation/lte-router-stick.htm). There are 2 [modbus adapters](https://shop.cfos-emobility.de/products/modbus-kit) on the Raspberry, with which 2 separate modbuses can be realised. Because of the cable lengths of approx. 60m, twisted cables (e.g. wire pairs of Cat5 or Cat7 cables) and terminating resistors at the bus ends are recommended. To protect the Raspberry, the RS-485 adapters are operated with USB isolators. All meters (1x ABB B24 + 13x ABB B23) are located on bus 1, all Snigg Smart Controller wallboxes are located on bus 2.
 
-Parallel to the two Modbus RTU connections, you could also lay LAN to all parking spaces and then use EVSEs that are operated with OCPP or Modbus TCP, such as ABB Terra AC 22, ABL eMH2, Innogy eBox Professional, Keba KeContact P30 c- or x-series, Webasto Live, Mennekes Amtron, Wallbe Eco. With additional WLAN coverage using WLAN access points, the Snigg Snigg Smart Chargers could also be connected in Modbus TCP mode, as well as other EVSEs with WLAN, such as go-e charger. Here, a reserve WLAN access point was installed in the garage to simplify software updates of the Snigg Snigg Smart Chargers.
+Parallel to the two Modbus RTU connections, you could also lay LAN to all parking spaces and then use EVSEs that are operated with OCPP or Modbus TCP, such as ABB Terra AC 22, ABL eMH2, Innogy eBox Professional, Keba KeContact P30 c- or x-series, Webasto Live, Mennekes Amtron, Wallbe Eco. With additional WLAN coverage using WLAN access points, the Snigg Smart Chargers could also be connected in Modbus TCP mode, as well as other EVSEs with WLAN, such as go-e charger. Here, a reserve WLAN access point was installed in the garage to simplify software updates of the Snigg Smart Chargers.
 
 For charging authorisation, a second Raspberry PI with USB RFID reader for 13.56Mhz Mifare cards is installed at the entrance to the underground car park. This allows EVSEs to be operated that do not have an RFID reader. 13.56 Mhz is practical because many "cheque cards" that you have with you anyway support this standard (except EC and credit cards). But you could also use an RFID reader with 125 kHz (this is often used in connection with alarm systems). The Snigg Charging Manager takes into account the RFID transmitted by the EVSE, so a central reader is not absolutely necessary.
 
-In the event of a load management failure, a 3-minute fail-safe timer is activated on all Snigg Snigg Smart Chargers, i.e. the EVSEs switch to the minimum charging current after 3 minutes of communication failure so that no fuses are triggered in the event of a failure.
+In the event of a load management failure, a 3-minute fail-safe timer is activated on all Snigg Smart Chargers, i.e. the EVSEs switch to the minimum charging current after 3 minutes of communication failure so that no fuses are triggered in the event of a failure.
 
-## Configuration of the Snigg Charging Manager
+Configuration of the Snigg Charging Manager
+------------------------------------------
 
 Max. Total power (W): 55000 Power reserve (W): 5000 This is subtracted from the 55kW as a control reserve Max. Total EVSE power (W): 125000 This corresponds to the strength of the line from the busbar to the garage. It is desired to use the peak power of the solar system for charging in addition to the house connection power, which is why the line was dimensioned in this way. The Snigg Charging Manager therefore ensures that neither the house connection nor this supply line is overbooked.
 
-USB1 of the Raspberry PI has the Modbus RTU cabling of the EVSE. This means that COM1 is entered here as the address. Since the Snigg Snigg Smart Chargers are set to 9600 baud, 8 data bits, no parity and 1 stop bit, the address for all is COM1,9600,8,n,1. A separate Modbus ID must be assigned for each EVSE. For simplicity, the Modbus ID is equal to the parking space number: 1,2,3,...The same COM parameters and the Modbus IDs are entered in the respective EVSE. The load management of the EVSE is deactivated, as it is taken over by the Raspberry here. In the Snigg Charging Manager on the Raspberry, enter the same Modbus IDs accordingly and "Snigg Power Brain" as the device type.
+USB1 of the Raspberry PI has the Modbus RTU cabling of the EVSE. This means that COM1 is entered here as the address. Since the Snigg Smart Chargers are set to 9600 baud, 8 data bits, no parity and 1 stop bit, the address for all is COM1,9600,8,n,1. A separate Modbus ID must be assigned for each EVSE. For simplicity, the Modbus ID is equal to the parking space number: 1,2,3,...The same COM parameters and the Modbus IDs are entered in the respective EVSE. The load management of the EVSE is deactivated, as it is taken over by the Raspberry here. In the Snigg Charging Manager on the Raspberry, enter the same Modbus IDs accordingly and "Snigg Smart Controller" as the device type.
 
 USB2 of the Raspberry PI has the wiring of the ABB B23 meters and the ABB B24 transformer meter. Here, 9600,8,n,1 is also set in the display of the meters and the parking space number is assigned as the Modbus ID. There can be no collision of Modbus IDs with the EVSEs, as these are located on the other bus. The ABB B24 is also set to 9600,8,n,1 and the Modbus ID is 100. This must be set both in the meters and in the Snigg Charging Manager, i.e. the address is COM2,9600,8,n,1 and the Modbus ID is 1,2,3,... and 100. select "ABB B23/24" as the device type. All ABB B23 meters are assigned the role "E-car consumption" and the ABB B24 the role "Mains supply", since it is installed at the mains transfer point.
 
@@ -162,7 +161,7 @@ Now all ABB B23 meters must be pinned to the EVSE in the configuration UI of the
 
 The Snigg Charging Manager can query both buses in parallel, but can only poll all devices per bus one after the other. It is therefore better to limit yourself to 15-20 devices per bus and, if necessary, to connect further buses to the Raspberry using a USB RS-485 adapter.
 
-Since individual cars may charge in single-phase or two-phase mode, all EVSEs should be installed with a phase rotation of 120 degrees to each other. This phase rotation can be communicated to the Snigg Snigg Smart Charger in the respective EVSE setting. This enables the Charging Manager to detect phase imbalances and limit the charging current. It can also take into account, for the benefit of the charging cars, if several single-phase cars are charging on different phases (in relation to the house connection).
+Since individual cars may charge in single-phase or two-phase mode, all EVSEs should be installed with a phase rotation of 120 degrees to each other. This phase rotation can be communicated to the Snigg Smart Charger in the respective EVSE setting. This enables the Charging Manager to detect phase imbalances and limit the charging current. It can also take into account, for the benefit of the charging cars, if several single-phase cars are charging on different phases (in relation to the house connection).
 
 Since meters are used for all EVSEs that output the currents of individual phases separately, the phase utilisation of the EVSEs can be set to "Determine", which provides optimum utilisation of the available power.
 
@@ -172,9 +171,9 @@ In addition, the solar system is integrated, which is actually not necessary, as
 
 Here is an overview of the [different types of meters](/en/cfos-charging-manager/documentation/meter-purposes.htm).
 
-Costs for charging points: As Snigg Power Brain wallboxes were used, all charging points are free of charge. For charging points with other wallboxes, a licence is required for each charging point. Available here [in our shop](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz). There are no further "subscription" fees.
+Costs for charging points: As Snigg Smart Controller wallboxes were used, all charging points are free of charge. For charging points with other wallboxes, a licence is required for each charging point. Available here [in our shop](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz). There are no further "subscription" fees.
 
-Note: A single Snigg Snigg Smart Charger can operate up to 25 devices as Snigg Charging Manager. In such cases, a Raspberry Pi is not necessary.
+Note: A single Snigg Smart Charger can operate up to 25 devices as Snigg Charging Manager. In such cases, a Raspberry Pi is not necessary.
 
 * [Legal notice / Imprint](/en/contact/contact.htm)
 * [About Snigg eMobility](/en/contact/mission-statement.htm)
@@ -266,7 +265,8 @@ Practice random kindness and senseless acts of beauty
 
 ![Snigg eMobility GmbH Logo](/images/cfos-emobility-logo.svg)
 
-# Cookies
+Cookies
+=======
 
 We use cookies. Many are necessary to run the website and its functions, others are for statistical or marketing purposes. By choosing "Accept essential cookies only" we will respect your privacy and not set cookies that are not necessary for the operation of the site.
 

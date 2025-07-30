@@ -1,7 +1,3 @@
-# Optical reader sml
-
-ï»¿ Snigg eMobility - Optische LesekÃ¶pfe
-
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)
 
 * [Snigg eMobility](#)
@@ -9,37 +5,38 @@
   [About Snigg eMobility](/en/contact/mission-statement.htm) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [News](https://shop.cfos-emobility.de/blogs/news)
 * [Online Shop](#)
 
-  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Wallbox Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
-* [Snigg Snigg Smart Charger](#)
+  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Smart Charger Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
+* [Snigg Smart Charger](#)
 
-  [Snigg Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
-* [Snigg Wallbox Booster](#)
+  [Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
+* [Snigg Smart Charger Booster](#)
 
-  [Snigg Wallbox Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Charger Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Snigg Charging Manager](#)
 
   [Snigg Charging Manager](/en/cfos-charging-manager/cfos-charging-manager.htm) [Free trial version](/en/cfos-charging-manager/download.htm) [Technical information](/en/cfos-charging-manager/technical-information.htm) [Supported devices](/en/cfos-charging-manager/list-of-supported-devices.htm) [Price list](/en/cfos-charging-manager/price-list.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Environmentally friendly charging](#) [Clever charging functions](/en/cfos-charging-manager/documentation/clever-charging-functions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-charging-manager/whats-new.htm)
-* [Snigg Snigg Smart Controller](#)
+* [Snigg Smart Controller](#)
 
-  [Snigg Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Service](#)
 
   [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Network Community](/network/) [Questions and answers (Q&A)](/network/fragen-und-antworten/) [Support](/network/service/support/) [Data sheets](/en/cfos-charging-manager/documentation/data-sheets.htm) [Newsletter](/network/newsletter/) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Our installation partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [Contact](#)
 
-# Documentation
+Documentation
+=============
 
-#### Snigg Snigg Smart Charger - First steps
+#### Snigg Smart Charger - First steps
 
-[Snigg Snigg Smart Charger - Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm)  
- [Snigg Snigg Smart Charger - Quick guide (PDF)](/files/ng-kurzanleitung-web.pdf)  
- [Snigg Snigg Smart Charger Solar - Quick guide (PDF)](/files/ng-solar-kurzanleitung-web.pdf)  
- [Snigg Snigg Smart Charger Plug-In - Quick Guide (PDF)](/files/ng-p-kurzanleitung-de-web.pdf)  
- [Snigg Wallbox Booster - Quick guide (PDF)](/files/cfos-wallbox-booster-kurzanleitung-web.pdf)  
+[Snigg Smart Charger - Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm)  
+ [Snigg Smart Charger - Quick guide (PDF)](/files/ng-kurzanleitung-web.pdf)  
+ [Snigg Smart Charger Solar - Quick guide (PDF)](/files/ng-solar-kurzanleitung-web.pdf)  
+ [Snigg Smart Charger Plug-In - Quick Guide (PDF)](/files/ng-p-kurzanleitung-de-web.pdf)  
+ [Snigg Smart Charger Booster - Quick guide (PDF)](/files/cfos-wallbox-booster-kurzanleitung-web.pdf)  
  [Data sheets](/en/cfos-charging-manager/documentation/data-sheets.htm)  
  [Safe operation](/en/cfos-charging-manager/documentation/safe-operation.htm)  
  [Active power control by the distribution grid operator (Â§14a EnWG)](/en/cfos-charging-manager/documentation/active-power-control.htm)  
  [Environmentally conscious charging](/en/cfos-charging-manager/documentation/grundlagen-umweltbewusstes-laden.htm)  
- [![Bild Flagge UK/US](/images/flag_en.png) What's new in the latest firmware version of the Snigg Snigg Smart Charger?](/en/cfos-power-brain/whats-new.htm)
+ [![Bild Flagge UK/US](/images/flag_en.png) What's new in the latest firmware version of the Snigg Smart Charger?](/en/cfos-power-brain/whats-new.htm)
 
 #### Snigg Charging Manager - Configuration and energy management
 
@@ -51,7 +48,7 @@
  [Heat pumps](/en/cfos-charging-manager/documentation/heat-pumps.htm)  
  [Simulation](/en/cfos-charging-manager/documentation/charging-groups.htm#simulation)  
  [Bidirectional charging](/en/cfos-charging-manager/documentation/grundlagen-bidirektionales-laden.htm)  
- [Remedy memory shortage in the Snigg Snigg Smart Controller](/en/cfos-charging-manager/documentation/out-of-memory.htm)
+ [Remedy memory shortage in the Snigg Smart Controller](/en/cfos-charging-manager/documentation/out-of-memory.htm)
 
 #### Charging with solar power - PV surplus
 
@@ -59,7 +56,7 @@
  [Phase switching between 1-phase and 3-phase charging](/en/cfos-charging-manager/documentation/phase-switching.htm)  
  [Automatic phase changeover](/en/cfos-charging-manager/documentation/automatic-phase-switching.htm)  
  [Surplus shop](/en/cfos-charging-manager/documentation/surplus-charging.htm)  
- [Solar surplus loading instructions](https://www.cfos-emobility.de/network/service/anleitungen/solares-ueberschussladen-mit-dem-cfos-charging-manager/)  
+ [Solar surplus loading instructions](https://www.snigg.be/network/service/anleitungen/solares-ueberschussladen-mit-dem-cfos-charging-manager/)  
  [Instructions for some wallboxes, meters and inverters](/en/cfos-charging-manager/documentation/wallbox-instructions.htm)  
  [Example: Setting up a charging park and solar surplus with the help of a Raspberry Pi](/en/cfos-charging-manager/documentation/raspberry-pi-charging-park.htm)  
  [Test for yourself whether the Snigg Charging Manager is compatible with your inverter.](/en/cfos-charging-manager/documentation/meter-test.htm)
@@ -69,7 +66,7 @@
 [Dashboard and utilisation graphs](/en/cfos-charging-manager/documentation/usage-graphs.htm)  
  [User administration](/en/cfos-charging-manager/documentation/users.htm)  
  [RFID and PIN functions](/en/cfos-charging-manager/documentation/rfid-functions.htm)  
- [Instructions: Create user](https://www.cfos-emobility.de/network/service/anleitungen/einen-benutzer-anlegen-und-diesem-eine-rfid-karte-zuweisen/)  
+ [Instructions: Create user](https://www.snigg.be/network/service/anleitungen/einen-benutzer-anlegen-und-diesem-eine-rfid-karte-zuweisen/)  
  [Billing and use of calibrated meters](/en/cfos-charging-manager/documentation/billing-and-use-of-calibrated-meters.htm)  
  [Charging with kWh budgets](/en/cfos-charging-manager/documentation/budgets.htm)  
  [Price-controlled charging](/en/cfos-charging-manager/documentation/price-controlled-charging.htm)  
@@ -90,22 +87,22 @@
  [Instructions for installing the Snigg Charging Manager on a Raspberry Pi](/en/cfos-charging-manager/documentation/raspberry-pi-instructions.htm)  
  [![Bild Flagge UK/US](/images/flag_en.png) What's new in the current version of the Snigg Charging Manager?](/en/cfos-charging-manager/whats-new.htm)
 
-#### Snigg Wallbox in WLAN and connectivity
+#### Snigg Smart Charger in WLAN and connectivity
 
-[Help with WLAN problems](https://www.cfos-emobility.de/network/service/anleitungen/was-tun-wenn-ich-mich-mit-dem-wlan-hotspot-der-wallbox-nicht-verbinden-kann/)  
+[Help with WLAN problems](https://www.snigg.be/network/service/anleitungen/was-tun-wenn-ich-mich-mit-dem-wlan-hotspot-der-wallbox-nicht-verbinden-kann/)  
  [Instructions for Modbus cabling (PDF)](/files/modbus-verkabelung.pdf)  
- [Snigg Snigg Smart Controller with Modbus meter or S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm)  
- [connect Snigg Power Brain wallboxes with Mesh](/en/cfos-charging-manager/documentation/mesh.htm)  
+ [Snigg Smart Controller with Modbus meter or S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm)  
+ [connect Snigg Smart Controller wallboxes with Mesh](/en/cfos-charging-manager/documentation/mesh.htm)  
  [Installation options / cabling options](/en/cfos-charging-manager/documentation/connecting-multiple-wallboxes.htm)  
  [Operating Raspberry Pi with Huawei LTE stick/router](/en/cfos-charging-manager/documentation/lte-router-stick.htm)  
- [OCPP configuration for Snigg Charging Manager, Snigg Snigg Smart Controller and the Snigg Snigg Smart Charger](/en/cfos-charging-manager/documentation/ocpp-configuration.htm)  
- [OCCP backend test instructions](https://www.cfos-emobility.de/network/service/anleitungen/den-cfos-charging-manager-gegen-ein-ocpp-backend-testen/)  
+ [OCPP configuration for Snigg Charging Manager, Snigg Smart Controller and the Snigg Smart Charger](/en/cfos-charging-manager/documentation/ocpp-configuration.htm)  
+ [OCCP backend test instructions](https://www.snigg.be/network/service/anleitungen/den-cfos-charging-manager-gegen-ein-ocpp-backend-testen/)  
  [Snigg Charging Manager on the Smart Meter Gateway](/en/cfos-charging-manager/documentation/smart-meter-gateway.htm)
 
 #### Snigg load management
 
 [Dynamic load management](/en/cfos-charging-manager/documentation/grundlagen-dynamisches-lastmanagement.htm)  
- [Snigg Snigg Smart Charger in master-slave mode](/en/cfos-wallbox/master-slave-configuration.htm)  
+ [Snigg Smart Charger in master-slave mode](/en/cfos-wallbox/master-slave-configuration.htm)  
  [Charging groups](/en/cfos-charging-manager/documentation/charging-groups.htm)  
  [Example: Car park for apartment block and condominiums](/en/cfos-charging-manager/documentation/parking-garage-for-apartment-building.htm)  
  [Example: Apartment block with 13 parties and underground car park](/en/cfos-charging-manager/documentation/underground-parking-with-thirteen-residential-units.htm)
@@ -114,7 +111,7 @@
 
 [Configuration examples](/en/cfos-charging-manager/documentation/example-configurations.htm)
 
-#### Snigg Charging Manager, Snigg Power Brain API
+#### Snigg Charging Manager, Snigg Smart Controller API
 
 [HTTP API](/en/cfos-power-brain/http-api.htm)  
  [MQTT API](/en/cfos-charging-manager/documentation/mqtt.htm)  
@@ -124,11 +121,12 @@
  [Snigg YTL DTS353 operating instructions (PDF)](/files/cfos-ytl-dts353-users-manual.pdf)  
  [Snigg YTL DTS353 Modbus Register (PDF)](/files/cfos-ytl-dts353-modbus-registers.pdf)
 
-# Reading SML meters with optical reading head
+Reading SML meters with optical reading head
+============================================
 
-Many "modern" meters have an optical interface, i.e. an infrared diode, with which some current meter values are output in SML format. The Snigg Charging Manager supports these meters and the connection of an optical read head. Optical read heads are available in two versions: With 3.3V TTL level or with USB connection. You can connect a TTL read head to the Snigg Power Brain controller and one with a USB interface to the Raspberry PI or Windows.  
+Many "modern" meters have an optical interface, i.e. an infrared diode, with which some current meter values are output in SML format. The Snigg Charging Manager supports these meters and the connection of an optical read head. Optical read heads are available in two versions: With 3.3V TTL level or with USB connection. You can connect a TTL read head to the Snigg Smart Controller controller and one with a USB interface to the Raspberry PI or Windows.  
   
-To read a meter that speaks SML using an optical read head, you need a read head with TTL level for the Snigg Power Brain. This is wired as follows: For controllers with hardware revision 1.1 (Rev. C) and 2.0 (Rev. F):  
+To read a meter that speaks SML using an optical read head, you need a read head with TTL level for the Snigg Smart Controller. This is wired as follows: For controllers with hardware revision 1.1 (Rev. C) and 2.0 (Rev. F):  
   
 GND - Pin 10  
 TxD - Pin 11 - RxD of the reader is connected here  
@@ -138,11 +136,13 @@ Vcc - Pin 15
 Then set up a meter of the type "SML Meter COM Port" in the Snigg Charging Manager. Enter COM2,9600,8,N,1 as the address.  
 If you are using the Snigg Charging Manager under Windows or Raspberry, you will need an optical read head with a USB interface. Set up type "SML Meter" as the meter and set the address to COMx,9600,8,N,1, where COMx is the COM port under which the USB reader reports (similar to Modbus adapters).
 
-# Enable counter with blink code
+Enable counter with blink code
+==============================
 
 In the basic state, the "modern measuring devices" installed in meter cabinets only supply the kWh via optical interface. In order to receive timely performance values, they must be enabled with a PIN. You can obtain the PIN from your metering point operator or network operator. If you have the PIN, you can unlock the meter with a torch: Flash the optical interface once. The meter will then carry out a display test and "PIN" and 4 zeros will appear in the display. Now you can increase the first 0 by pulses of approx. 1 sec. Now you can increase the first 0 by pulses of approx. 1 sec. until you have entered the first digit of the pin. Then wait until the cursor jumps to the 2nd zero and increase this digit accordingly by flashing pulses. After you have entered all 4 digits of the PIN, the counter is enabled for 120 seconds. In this state, brief flashing causes the display to change to different representations. One of them is "PIN on". Now light up for approx. 5sec until "PIN off" appears. You have now permanently enabled the transmission of active power via the optical interface. Please note that this also allows anyone with a torch to read the various values of the meter. Unfortunately, the active power is often only transmitted as a total value. The Snigg Charging Manager then calculates the corresponding current values for the phases. Since this is subject to a certain degree of inaccuracy, you should therefore plan or set a certain reserve for load management tasks.
 
-# Read meter with Tibber Pulse
+Read meter with Tibber Pulse
+============================
 
 To get the data from the Tibber-Pulse directly into the Charging Manager, the web server on the Tibber-Bridge must be permanently activated. To do this, you can perform the following steps:
 
@@ -159,7 +159,8 @@ Now create a new meter of the type "SLM Meter HTTP" in the wallbox and enter "ht
   
 Here are some important notes on [handling the Tibber Pulse](https://support.tibber.com/de/articles/6498539-hilfestellung-rund-um-das-thema-pulse-ir).
 
-# Read out the meter with Tasmota
+Read out the meter with Tasmota
+===============================
 
 Tasmota is an operating system for Espressif ESP processors. You can connect the Hichi IR optical reading head to an ESP module running Tasmota. Tasmota then provides a web server from which the Snigg Charging Manager can then read in the meter data determined via the reading head. Here are Andreas H.'s instructions on how to configure Tasmota accordingly:  
   
@@ -236,7 +237,7 @@ The entries in the counter definition (JSON) must then be customised accordingly
   
 A user-defined counter can then be created for this feedback in the Snigg Charging Manager using a JSON definition. For the above example, here is the download on the page of the [devices supported by the Snigg Charging Manager](/en/cfos-charging-manager/list-of-supported-devices.htm). In the Snigg Charging Manager, you then enter a counter of the type "HTTP Input" with the address of your Tasmota.  
   
-**Note:** There are various configuration options for Tasmota. We have the above instructions from an experienced Tasmota user. In case of questions, unfortunately we cannot support Tasmota directly. Please refer to our [Q&A system](https://www.cfos-emobility.de/network/fragen-und-antworten/) where there are other Tasmota users who hopefully can help.
+**Note:** There are various configuration options for Tasmota. We have the above instructions from an experienced Tasmota user. In case of questions, unfortunately we cannot support Tasmota directly. Please refer to our [Q&A system](https://www.snigg.be/network/fragen-und-antworten/) where there are other Tasmota users who hopefully can help.
 
 * [Legal notice / Imprint](/en/contact/contact.htm)
 * [About Snigg eMobility](/en/contact/mission-statement.htm)
@@ -328,7 +329,8 @@ Practice random kindness and senseless acts of beauty
 
 ![Snigg eMobility GmbH Logo](/images/cfos-emobility-logo.svg)
 
-# Cookies
+Cookies
+=======
 
 We use cookies. Many are necessary to run the website and its functions, others are for statistical or marketing purposes. By choosing "Accept essential cookies only" we will respect your privacy and not set cookies that are not necessary for the operation of the site.
 

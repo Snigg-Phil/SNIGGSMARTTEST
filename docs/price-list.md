@@ -1,9 +1,3 @@
-# Price list
-
-Snigg Charging Manager
-– Snigg eMobility GmbH
-
-
 [Direkt zum Inhalt](#MainContent)
 
 [Betriebsferien vom 26.07.2025 - 17.08-2025 /// Bestellen Sie bis zum 24.07.2025 !!!](/blogs/news/betriebsferien-sommer-2025-shop-bleibt-geoffnet)
@@ -19,7 +13,8 @@ Snigg Charging Manager
 
 [Einloggen](/account/login)
 
-## Land/Region
+Land/Region
+-----------
 
 Deutschland |
 EUR
@@ -996,7 +991,7 @@ Suchen
 * [X (Twitter)](https://twitter.com/SniggEmobility)
 * [YouTube](https://www.youtube.com/@cfosemobility)
 
-[![Snigg eMobility GmbH](//shop.cfos-emobility.de/cdn/shop/files/cfos-emobility-logo_33aa6a9b-ca13-44d7-b0f0-d4b39d9acdf1.jpg?v=1695134386&width=600)](https://www.cfos-emobility.de)
+[![Snigg eMobility GmbH](//shop.cfos-emobility.de/cdn/shop/files/cfos-emobility-logo_33aa6a9b-ca13-44d7-b0f0-d4b39d9acdf1.jpg?v=1695134386&width=600)](https://www.snigg.be)
 
 
 * [Start](/)
@@ -1014,7 +1009,8 @@ Suchen
 
 
 
-# Kategorie: Snigg Charging Manager
+Kategorie: Snigg Charging Manager
+================================
 
 Der **Snigg Charging Manager** erlaubt Ihnen dank **dynamischem Lastmanagement**  
 Ihre vorhandene Anschlussleistung clever zum Laden von Elektroautos zu nutzen.
@@ -1024,7 +1020,8 @@ Wir bieten Ihnen eine herstellerunabhängige Lösung.
 Pro Ladepunkt fällt nur eine einmalige Lizenzgebühr an.  
 Alle Softwareupdates sind kostenlos.
 
-## Filter:
+Filter:
+-------
 
 
 
@@ -1060,7 +1057,8 @@ Bis
 
 [Alle entfernen](/collections/cfos-charging-manager)
 
-## Sortieren nach:
+Sortieren nach:
+---------------
 
 Ausgewählt
 meistverkauft
@@ -1071,7 +1069,8 @@ Preis, hoch nach niedrig
 Datum, alt zu neu
 Datum, neu zu alt
 
-## 4 Produkte
+4 Produkte
+----------
 
 
 
@@ -1085,9 +1084,11 @@ Filter
 
 
 
-## Filtern und sortieren
+Filtern und sortieren
+---------------------
 
-## Filter
+Filter
+------
 
 4 Produkte
 
@@ -1142,7 +1143,8 @@ Anwenden
 
 [Alle entfernen](/collections/cfos-charging-manager)
 
-## 4 Produkte
+4 Produkte
+----------
 
 * ![Snigg Charging Manager Kit ESP](//shop.cfos-emobility.de/cdn/shop/files/Snigg-charging-manager-kit-esp-1.webp?v=1739285504&width=533)
 
@@ -1214,11 +1216,11 @@ Anwenden
 
   /
    pro
-* ![Snigg Wallbox Booster](//shop.cfos-emobility.de/cdn/shop/files/Snigg-booster_1_7299aa3e-9d80-4987-8b48-9fa0cff8bd46.webp?v=1739285309&width=533)
+* ![Snigg Smart Charger Booster](//shop.cfos-emobility.de/cdn/shop/files/Snigg-booster_1_7299aa3e-9d80-4987-8b48-9fa0cff8bd46.webp?v=1739285309&width=533)
 
-  ### [Snigg Wallbox Booster](/products/cfos-wallbox-booster)
+  ### [Snigg Smart Charger Booster](/products/cfos-wallbox-booster)
 
-  ### [Snigg Wallbox Booster](/products/cfos-wallbox-booster)
+  ### [Snigg Smart Charger Booster](/products/cfos-wallbox-booster)
 
   Normaler Preis
 
@@ -1239,27 +1241,29 @@ Anwenden
 
 
 
-## Schnell zum Ziel
+Schnell zum Ziel
+----------------
 
 * [Newsletter abonnieren](https://network.cfos-emobility.de/newsletter/)
 * [Weitersagen lohnt sich!](/pages/cfos-emobility-partnerprogramm)
-* [Installation - Unsere Partner](https://www.cfos-emobility.de/de/cfos-wallbox/installation-partners.htm)
+* [Installation - Unsere Partner](https://www.snigg.be/de/cfos-wallbox/installation-partners.htm)
 * [Kontakt](https://shop.cfos-emobility.de/pages/kontakt)
 * [Versandkosten](https://shop.cfos-emobility.de/policies/shipping-policy)
 * [Fragen zum Shop](https://cfos-emobility.myshopify.com/a/faq)
-* [Snigg Community Q&A](https://www.cfos-emobility.de/network/fragen-und-antworten/)
-* [Zur Snigg eMobility Homepage](https://www.cfos-emobility.de/)
-* [Über uns](https://www.cfos-emobility.de/de/contact/mission-statement.htm)
+* [Snigg Community Q&A](https://www.snigg.be/network/fragen-und-antworten/)
+* [Zur Snigg eMobility Homepage](https://www.snigg.be/)
+* [Über uns](https://www.snigg.be/de/contact/mission-statement.htm)
 * [Datenschutz](/policies/privacy-policy)
 * [AGB](/policies/terms-of-service)
 * [Widerrufsrecht](/policies/refund-policy)
 * [Impressum](/policies/legal-notice)
 
-## Kontakt zu uns
+Kontakt zu uns
+--------------
 
 Sie haben Fragen zu unseren Produkten oder unseren Lieferzeiten? Das Team von Snigg eMobility hilft Ihnen gerne weiter. Kontaktieren Sie uns über [unser Kontaktformular.](/pages/kontakt "Kontakt")
 
-Sie benötigen Support? Wir haben #diebestenuserderwelt – eventuell findet sich die Antwort auf Ihre Frage bereits in unserem Forum. Schauen Sie in [unserem Community Q&A](https://www.cfos-emobility.de/network/fragen-und-antworten/ "https://www.cfos-emobility.de/network/fragen-und-antworten/") vorbei!
+Sie benötigen Support? Wir haben #diebestenuserderwelt – eventuell findet sich die Antwort auf Ihre Frage bereits in unserem Forum. Schauen Sie in [unserem Community Q&A](https://www.snigg.be/network/fragen-und-antworten/ "https://www.snigg.be/network/fragen-und-antworten/") vorbei!
 
 * [YouTube](https://www.youtube.com/@cfosemobility)
 * [X (Twitter)](https://twitter.com/SniggEmobility)

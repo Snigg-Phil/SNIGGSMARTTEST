@@ -1,7 +1,3 @@
-# Environmentally friendly charging
-
-ï»¿ Snigg eMobility - Eco Charging - UmweltvertrÃ¤gliches Laden
-
 [![Snigg eMobility GmbH Logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH Logo](/images/cfos-emobility-logo.svg)](/de/index.htm)
 
 * [Snigg eMobility](#)
@@ -9,37 +5,38 @@
   [Ãber Snigg eMobility](/de/contact/mission-statement.htm) [Unsere Partner](/de/cfos-wallbox/installation-partners.htm) [Referenzanlagen](/de/contact/references.htm) [News](https://shop.cfos-emobility.de/blogs/news)
 * [Online Shop](#)
 
-  [Online Shop](https://shop.cfos-emobility.de/) ["Weitersagen lohnt sich"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Wallbox Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
-* [Snigg Snigg Smart Charger](#)
+  [Online Shop](https://shop.cfos-emobility.de/) ["Weitersagen lohnt sich"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Smart Charger Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
+* [Snigg Smart Charger](#)
 
-  [Snigg Snigg Smart Charger](/de/cfos-wallbox/cfos-wallbox.htm) [Modbus und S0-ZÃ¤hler](/de/cfos-power-brain/modbus-meter-s0-meter.htm) [Inbetriebnahme](/de/cfos-wallbox/inbetriebnahme/index.htm) [PV-Ãberschussladen (Solares Ãberschussladen)](/de/cfos-charging-manager/documentation/surplus-charging.htm) [HÃ¤ufige Fragen (FAQ)](/de/cfos-charging-manager/frequently-asked-questions.htm) [Dokumentation](/de/cfos-charging-manager/documentation/documentation-links.htm) [Was ist neu?](/en/cfos-power-brain/whats-new.htm)
-* [Snigg Wallbox Booster](#)
+  [Snigg Smart Charger](/de/cfos-wallbox/cfos-wallbox.htm) [Modbus und S0-ZÃ¤hler](/de/cfos-power-brain/modbus-meter-s0-meter.htm) [Inbetriebnahme](/de/cfos-wallbox/inbetriebnahme/index.htm) [PV-Ãberschussladen (Solares Ãberschussladen)](/de/cfos-charging-manager/documentation/surplus-charging.htm) [HÃ¤ufige Fragen (FAQ)](/de/cfos-charging-manager/frequently-asked-questions.htm) [Dokumentation](/de/cfos-charging-manager/documentation/documentation-links.htm) [Was ist neu?](/en/cfos-power-brain/whats-new.htm)
+* [Snigg Smart Charger Booster](#)
 
-  [Snigg Wallbox Booster](/de/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Dokumentation](/de/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Charger Booster](/de/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Dokumentation](/de/cfos-charging-manager/documentation/documentation-links.htm)
 * [Snigg Charging Manager](#)
 
   [Snigg Charging Manager](/de/cfos-charging-manager/cfos-charging-manager.htm) [Gratis Testversion](/de/cfos-charging-manager/download.htm) [Technische Informationen](/de/cfos-charging-manager/technical-information.htm) [UnterstÃ¼tzte GerÃ¤te](/de/cfos-charging-manager/list-of-supported-devices.htm) [Preisliste](/de/cfos-charging-manager/price-list.htm) [HÃ¤ufige Fragen (FAQ)](/de/cfos-charging-manager/frequently-asked-questions.htm) [UmweltvertrÃ¤gliches Laden](#) [Clevere Ladefunktionen](/de/cfos-charging-manager/documentation/clever-charging-functions.htm) [Dokumentation](/de/cfos-charging-manager/documentation/documentation-links.htm) [Was ist neu?](/en/cfos-charging-manager/whats-new.htm)
-* [Snigg Snigg Smart Controller](#)
+* [Snigg Smart Controller](#)
 
-  [Snigg Snigg Smart Controller](/de/cfos-power-brain/cfos-power-brain.htm) [Modbus-Register](/de/cfos-power-brain/modbus-registers.htm) [Dokumentation](/de/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Controller](/de/cfos-power-brain/cfos-power-brain.htm) [Modbus-Register](/de/cfos-power-brain/modbus-registers.htm) [Dokumentation](/de/cfos-charging-manager/documentation/documentation-links.htm)
 * [Service](#)
 
   [Inbetriebnahme](/de/cfos-wallbox/inbetriebnahme/index.htm) [Dokumentation](/de/cfos-charging-manager/documentation/documentation-links.htm) [HÃ¤ufige Fragen (FAQ)](/de/cfos-charging-manager/frequently-asked-questions.htm) [Network Community](/network/) [Fragen und Antworten (Q&A)](/network/fragen-und-antworten/) [Support](/network/service/support/) [DatenblÃ¤tter](/de/cfos-charging-manager/documentation/data-sheets.htm) [Newsletter](/network/newsletter/) [Unsere Partner](/de/cfos-wallbox/installation-partners.htm) [Unsere Installationspartner](/de/cfos-wallbox/installation-partners.htm) [Referenzanlagen](/de/contact/references.htm) [Kontakt](#)
 
-# Dokumentation
+Dokumentation
+=============
 
-#### Snigg Snigg Smart Charger - Erste Schritte
+#### Snigg Smart Charger - Erste Schritte
 
-[Snigg Snigg Smart Charger - Inbetriebnahme](/de/cfos-wallbox/inbetriebnahme/index.htm)  
- [Snigg Snigg Smart Charger - Kurzanleitung (PDF)](/files/ng-kurzanleitung-web.pdf)  
- [Snigg Snigg Smart Charger Solar - Kurzanleitung (PDF)](/files/ng-solar-kurzanleitung-web.pdf)  
- [Snigg Snigg Smart Charger Plug-In - Kurzanleitung (PDF)](/files/ng-p-kurzanleitung-de-web.pdf)  
- [Snigg Wallbox Booster - Kurzanleitung (PDF)](/files/cfos-wallbox-booster-kurzanleitung-web.pdf)  
+[Snigg Smart Charger - Inbetriebnahme](/de/cfos-wallbox/inbetriebnahme/index.htm)  
+ [Snigg Smart Charger - Kurzanleitung (PDF)](/files/ng-kurzanleitung-web.pdf)  
+ [Snigg Smart Charger Solar - Kurzanleitung (PDF)](/files/ng-solar-kurzanleitung-web.pdf)  
+ [Snigg Smart Charger Plug-In - Kurzanleitung (PDF)](/files/ng-p-kurzanleitung-de-web.pdf)  
+ [Snigg Smart Charger Booster - Kurzanleitung (PDF)](/files/cfos-wallbox-booster-kurzanleitung-web.pdf)  
  [DatenblÃ¤tter](/de/cfos-charging-manager/documentation/data-sheets.htm)  
  [Sicherer Betrieb](/de/cfos-charging-manager/documentation/safe-operation.htm)  
  [Wirkleistungssteuerung durch den Verteilnetzbetreiber (Â§14a EnWG)](/de/cfos-charging-manager/documentation/active-power-control.htm)  
  [Umweltbewusstes Laden](/de/cfos-charging-manager/documentation/grundlagen-umweltbewusstes-laden.htm)  
- [![Bild Flagge UK/US](/images/flag_en.png) Was ist neu in der aktuellen Firmware-Version der Snigg Snigg Smart Charger?](/en/cfos-power-brain/whats-new.htm)
+ [![Bild Flagge UK/US](/images/flag_en.png) Was ist neu in der aktuellen Firmware-Version der Snigg Smart Charger?](/en/cfos-power-brain/whats-new.htm)
 
 #### Snigg Charging Manager â Konfiguration und Energiemanagement
 
@@ -51,7 +48,7 @@
  [WÃ¤rmepumpen](/de/cfos-charging-manager/documentation/heat-pumps.htm)  
  [Simulation](/de/cfos-charging-manager/documentation/charging-groups.htm#simulation)  
  [Bidirektionales Laden](/de/cfos-charging-manager/documentation/grundlagen-bidirektionales-laden.htm)  
- [Speichermangel beim Snigg Snigg Smart Controller beheben](/de/cfos-charging-manager/documentation/out-of-memory.htm)
+ [Speichermangel beim Snigg Smart Controller beheben](/de/cfos-charging-manager/documentation/out-of-memory.htm)
 
 #### Laden mit Solarstrom - PV-Ãberschuss
 
@@ -59,7 +56,7 @@
  [Phasenumschaltung zwischen 1- und 3-phasigem Laden](/de/cfos-charging-manager/documentation/phase-switching.htm)  
  [Automatische Phasenumschaltung](/de/cfos-charging-manager/documentation/automatic-phase-switching.htm)  
  [Ãberschussladen](/de/cfos-charging-manager/documentation/surplus-charging.htm)  
- [Anleitung Solares Ãberschussladen](https://www.cfos-emobility.de/network/service/anleitungen/solares-ueberschussladen-mit-dem-cfos-charging-manager/)  
+ [Anleitung Solares Ãberschussladen](https://www.snigg.be/network/service/anleitungen/solares-ueberschussladen-mit-dem-cfos-charging-manager/)  
  [Anleitungen fÃ¼r einige Wallboxen, ZÃ¤hler und Wechselrichter](/de/cfos-charging-manager/documentation/wallbox-instructions.htm)  
  [Beispiel: Mit Hilfe eines Raspberry Pi einen Ladepark und solaren Ãberschuss einrichten](/de/cfos-charging-manager/documentation/raspberry-pi-charging-park.htm)  
  [Testen Sie selbst, ob der Snigg Charging Manager mit Ihrem Wechselrichter kompatibel ist.](/de/cfos-charging-manager/documentation/meter-test.htm)
@@ -69,7 +66,7 @@
 [Dashboard und Nutzungsgraphen](/de/cfos-charging-manager/documentation/usage-graphs.htm)  
  [Benutzerverwaltung](/de/cfos-charging-manager/documentation/users.htm)  
  [RFID und PIN Funktionen](/de/cfos-charging-manager/documentation/rfid-functions.htm)  
- [Anleitung: Nutzer anlegen](https://www.cfos-emobility.de/network/service/anleitungen/einen-benutzer-anlegen-und-diesem-eine-rfid-karte-zuweisen/)  
+ [Anleitung: Nutzer anlegen](https://www.snigg.be/network/service/anleitungen/einen-benutzer-anlegen-und-diesem-eine-rfid-karte-zuweisen/)  
  [Abrechnung und Einsatz geeichter ZÃ¤hler](/de/cfos-charging-manager/documentation/billing-and-use-of-calibrated-meters.htm)  
  [Laden mit kWh Budgets](/de/cfos-charging-manager/documentation/budgets.htm)  
  [Preisgesteuertes Laden](/de/cfos-charging-manager/documentation/price-controlled-charging.htm)  
@@ -90,22 +87,22 @@
  [Anleitung zur Installation des Snigg Charging Managers auf einem Raspberry Pi](/de/cfos-charging-manager/documentation/raspberry-pi-instructions.htm)  
  [![Bild Flagge UK/US](/images/flag_en.png) Was ist neu in der aktuellen Version des Snigg Charging Managers?](/en/cfos-charging-manager/whats-new.htm)
 
-#### Snigg Wallbox im WLAN und KonnektivitÃ¤t
+#### Snigg Smart Charger im WLAN und KonnektivitÃ¤t
 
-[Hilfe bei WLAN Problemen](https://www.cfos-emobility.de/network/service/anleitungen/was-tun-wenn-ich-mich-mit-dem-wlan-hotspot-der-wallbox-nicht-verbinden-kann/)  
+[Hilfe bei WLAN Problemen](https://www.snigg.be/network/service/anleitungen/was-tun-wenn-ich-mich-mit-dem-wlan-hotspot-der-wallbox-nicht-verbinden-kann/)  
  [Anleitung zu Modbus-Verkabelung (PDF)](/files/modbus-verkabelung.pdf)  
- [Snigg Snigg Smart Controller mit Modbus-ZÃ¤hler oder S0-ZÃ¤hler](/de/cfos-power-brain/modbus-meter-s0-meter.htm)  
- [Snigg Snigg Smart Chargeren mit Mesh verbinden](/de/cfos-charging-manager/documentation/mesh.htm)  
+ [Snigg Smart Controller mit Modbus-ZÃ¤hler oder S0-ZÃ¤hler](/de/cfos-power-brain/modbus-meter-s0-meter.htm)  
+ [Snigg Smart Chargeren mit Mesh verbinden](/de/cfos-charging-manager/documentation/mesh.htm)  
  [AufbaumÃ¶glichkeiten / VerkabelungsmÃ¶glichkeiten](/de/cfos-charging-manager/documentation/connecting-multiple-wallboxes.htm)  
  [Raspberry Pi mit Huawei LTE Stick/Router betreiben](/de/cfos-charging-manager/documentation/lte-router-stick.htm)  
- [OCPP-Konfiguration fÃ¼r Snigg Charging Manager, Snigg Snigg Smart Controller und die Snigg Snigg Smart Charger](/de/cfos-charging-manager/documentation/ocpp-configuration.htm)  
- [Anleitung OCCP-Backend Test](https://www.cfos-emobility.de/network/service/anleitungen/den-cfos-charging-manager-gegen-ein-ocpp-backend-testen/)  
+ [OCPP-Konfiguration fÃ¼r Snigg Charging Manager, Snigg Smart Controller und die Snigg Smart Charger](/de/cfos-charging-manager/documentation/ocpp-configuration.htm)  
+ [Anleitung OCCP-Backend Test](https://www.snigg.be/network/service/anleitungen/den-cfos-charging-manager-gegen-ein-ocpp-backend-testen/)  
  [Snigg Charging Manager am Smart Meter Gateway](/de/cfos-charging-manager/documentation/smart-meter-gateway.htm)
 
 #### Snigg Lastmanagement
 
 [Dynamisches Lastmanagement](/de/cfos-charging-manager/documentation/grundlagen-dynamisches-lastmanagement.htm)  
- [Snigg Snigg Smart Charger im Master Slave Betrieb](/de/cfos-wallbox/master-slave-configuration.htm)  
+ [Snigg Smart Charger im Master Slave Betrieb](/de/cfos-wallbox/master-slave-configuration.htm)  
  [Ladegruppen](/de/cfos-charging-manager/documentation/charging-groups.htm)  
  [Beispiel: Parkgarage fÃ¼r Mehrfamilienhaus und Eigentumswohnungen](/de/cfos-charging-manager/documentation/parking-garage-for-apartment-building.htm)  
  [Beispiel: Mehrfamilienhaus mit 13 Parteien und Tiefgarage](/de/cfos-charging-manager/documentation/underground-parking-with-thirteen-residential-units.htm)
@@ -114,7 +111,7 @@
 
 [Konfigurationsbeispiele](/de/cfos-charging-manager/documentation/example-configurations.htm)
 
-#### Snigg Charging Manager, Snigg Power Brain API
+#### Snigg Charging Manager, Snigg Smart Controller API
 
 [HTTP API](/de/cfos-power-brain/http-api.htm)  
  [MQTT API](/de/cfos-charging-manager/documentation/mqtt.htm)  
@@ -124,7 +121,8 @@
  [Snigg YTL DTS353 Bedienungsanleitung (PDF)](/files/cfos-ytl-dts353-users-manual.pdf)  
  [Snigg YTL DTS353 Modbus Register (PDF)](/files/cfos-ytl-dts353-modbus-registers.pdf)
 
-# Eco Charging - UmweltvertrÃ¤gliches Laden
+Eco Charging - UmweltvertrÃ¤gliches Laden
+=========================================
 
 Ankunft  
 0:002:004:006:008:0010:0012:0014:0016:0018:0020:0022:00
@@ -179,7 +177,8 @@ Practice random kindness and senseless acts of beauty
 
 ![Snigg eMobility GmbH Logo](/images/cfos-emobility-logo.svg)
 
-# Cookies
+Cookies
+=======
 
 Wir verwenden Cookies. Viele sind notwendig, um die Website und ihre Funktionen zu betreiben, andere sind fÃ¼r statistische oder Marketingzwecke. Mit der Entscheidung "Nur essentielle Cookies akzeptieren" werden wir Ihre PrivatsphÃ¤re respektieren und keine Cookies setzen, die nicht fÃ¼r den Betrieb der Seite notwendig sind.
 

@@ -1,7 +1,3 @@
-# Ocpp configuration
-
-ï»¿ Snigg eMobility - OCPP configuration
-
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)
 
 * [Snigg eMobility](#)
@@ -9,37 +5,38 @@
   [About Snigg eMobility](/en/contact/mission-statement.htm) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [News](https://shop.cfos-emobility.de/blogs/news)
 * [Online Shop](#)
 
-  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Wallbox Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
-* [Snigg Snigg Smart Charger](#)
+  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Smart Charger Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
+* [Snigg Smart Charger](#)
 
-  [Snigg Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
-* [Snigg Wallbox Booster](#)
+  [Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
+* [Snigg Smart Charger Booster](#)
 
-  [Snigg Wallbox Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Charger Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Snigg Charging Manager](#)
 
   [Snigg Charging Manager](/en/cfos-charging-manager/cfos-charging-manager.htm) [Free trial version](/en/cfos-charging-manager/download.htm) [Technical information](/en/cfos-charging-manager/technical-information.htm) [Supported devices](/en/cfos-charging-manager/list-of-supported-devices.htm) [Price list](/en/cfos-charging-manager/price-list.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Environmentally friendly charging](#) [Clever charging functions](/en/cfos-charging-manager/documentation/clever-charging-functions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-charging-manager/whats-new.htm)
-* [Snigg Snigg Smart Controller](#)
+* [Snigg Smart Controller](#)
 
-  [Snigg Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Service](#)
 
   [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Network Community](/network/) [Questions and answers (Q&A)](/network/fragen-und-antworten/) [Support](/network/service/support/) [Data sheets](/en/cfos-charging-manager/documentation/data-sheets.htm) [Newsletter](/network/newsletter/) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Our installation partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [Contact](#)
 
-# Documentation
+Documentation
+=============
 
-#### Snigg Snigg Smart Charger - First steps
+#### Snigg Smart Charger - First steps
 
-[Snigg Snigg Smart Charger - Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm)  
- [Snigg Snigg Smart Charger - Quick guide (PDF)](/files/ng-kurzanleitung-web.pdf)  
- [Snigg Snigg Smart Charger Solar - Quick guide (PDF)](/files/ng-solar-kurzanleitung-web.pdf)  
- [Snigg Snigg Smart Charger Plug-In - Quick Guide (PDF)](/files/ng-p-kurzanleitung-de-web.pdf)  
- [Snigg Wallbox Booster - Quick guide (PDF)](/files/cfos-wallbox-booster-kurzanleitung-web.pdf)  
+[Snigg Smart Charger - Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm)  
+ [Snigg Smart Charger - Quick guide (PDF)](/files/ng-kurzanleitung-web.pdf)  
+ [Snigg Smart Charger Solar - Quick guide (PDF)](/files/ng-solar-kurzanleitung-web.pdf)  
+ [Snigg Smart Charger Plug-In - Quick Guide (PDF)](/files/ng-p-kurzanleitung-de-web.pdf)  
+ [Snigg Smart Charger Booster - Quick guide (PDF)](/files/cfos-wallbox-booster-kurzanleitung-web.pdf)  
  [Data sheets](/en/cfos-charging-manager/documentation/data-sheets.htm)  
  [Safe operation](/en/cfos-charging-manager/documentation/safe-operation.htm)  
  [Active power control by the distribution grid operator (Â§14a EnWG)](/en/cfos-charging-manager/documentation/active-power-control.htm)  
  [Environmentally conscious charging](/en/cfos-charging-manager/documentation/grundlagen-umweltbewusstes-laden.htm)  
- [![Bild Flagge UK/US](/images/flag_en.png) What's new in the latest firmware version of the Snigg Snigg Smart Charger?](/en/cfos-power-brain/whats-new.htm)
+ [![Bild Flagge UK/US](/images/flag_en.png) What's new in the latest firmware version of the Snigg Smart Charger?](/en/cfos-power-brain/whats-new.htm)
 
 #### Snigg Charging Manager - Configuration and energy management
 
@@ -51,7 +48,7 @@
  [Heat pumps](/en/cfos-charging-manager/documentation/heat-pumps.htm)  
  [Simulation](/en/cfos-charging-manager/documentation/charging-groups.htm#simulation)  
  [Bidirectional charging](/en/cfos-charging-manager/documentation/grundlagen-bidirektionales-laden.htm)  
- [Remedy memory shortage in the Snigg Snigg Smart Controller](/en/cfos-charging-manager/documentation/out-of-memory.htm)
+ [Remedy memory shortage in the Snigg Smart Controller](/en/cfos-charging-manager/documentation/out-of-memory.htm)
 
 #### Charging with solar power - PV surplus
 
@@ -59,7 +56,7 @@
  [Phase switching between 1-phase and 3-phase charging](/en/cfos-charging-manager/documentation/phase-switching.htm)  
  [Automatic phase changeover](/en/cfos-charging-manager/documentation/automatic-phase-switching.htm)  
  [Surplus shop](/en/cfos-charging-manager/documentation/surplus-charging.htm)  
- [Solar surplus loading instructions](https://www.cfos-emobility.de/network/service/anleitungen/solares-ueberschussladen-mit-dem-cfos-charging-manager/)  
+ [Solar surplus loading instructions](https://www.snigg.be/network/service/anleitungen/solares-ueberschussladen-mit-dem-cfos-charging-manager/)  
  [Instructions for some wallboxes, meters and inverters](/en/cfos-charging-manager/documentation/wallbox-instructions.htm)  
  [Example: Setting up a charging park and solar surplus with the help of a Raspberry Pi](/en/cfos-charging-manager/documentation/raspberry-pi-charging-park.htm)  
  [Test for yourself whether the Snigg Charging Manager is compatible with your inverter.](/en/cfos-charging-manager/documentation/meter-test.htm)
@@ -69,7 +66,7 @@
 [Dashboard and utilisation graphs](/en/cfos-charging-manager/documentation/usage-graphs.htm)  
  [User administration](/en/cfos-charging-manager/documentation/users.htm)  
  [RFID and PIN functions](/en/cfos-charging-manager/documentation/rfid-functions.htm)  
- [Instructions: Create user](https://www.cfos-emobility.de/network/service/anleitungen/einen-benutzer-anlegen-und-diesem-eine-rfid-karte-zuweisen/)  
+ [Instructions: Create user](https://www.snigg.be/network/service/anleitungen/einen-benutzer-anlegen-und-diesem-eine-rfid-karte-zuweisen/)  
  [Billing and use of calibrated meters](/en/cfos-charging-manager/documentation/billing-and-use-of-calibrated-meters.htm)  
  [Charging with kWh budgets](/en/cfos-charging-manager/documentation/budgets.htm)  
  [Price-controlled charging](/en/cfos-charging-manager/documentation/price-controlled-charging.htm)  
@@ -90,22 +87,22 @@
  [Instructions for installing the Snigg Charging Manager on a Raspberry Pi](/en/cfos-charging-manager/documentation/raspberry-pi-instructions.htm)  
  [![Bild Flagge UK/US](/images/flag_en.png) What's new in the current version of the Snigg Charging Manager?](/en/cfos-charging-manager/whats-new.htm)
 
-#### Snigg Wallbox in WLAN and connectivity
+#### Snigg Smart Charger in WLAN and connectivity
 
-[Help with WLAN problems](https://www.cfos-emobility.de/network/service/anleitungen/was-tun-wenn-ich-mich-mit-dem-wlan-hotspot-der-wallbox-nicht-verbinden-kann/)  
+[Help with WLAN problems](https://www.snigg.be/network/service/anleitungen/was-tun-wenn-ich-mich-mit-dem-wlan-hotspot-der-wallbox-nicht-verbinden-kann/)  
  [Instructions for Modbus cabling (PDF)](/files/modbus-verkabelung.pdf)  
- [Snigg Snigg Smart Controller with Modbus meter or S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm)  
- [connect Snigg Power Brain wallboxes with Mesh](/en/cfos-charging-manager/documentation/mesh.htm)  
+ [Snigg Smart Controller with Modbus meter or S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm)  
+ [connect Snigg Smart Controller wallboxes with Mesh](/en/cfos-charging-manager/documentation/mesh.htm)  
  [Installation options / cabling options](/en/cfos-charging-manager/documentation/connecting-multiple-wallboxes.htm)  
  [Operating Raspberry Pi with Huawei LTE stick/router](/en/cfos-charging-manager/documentation/lte-router-stick.htm)  
- [OCPP configuration for Snigg Charging Manager, Snigg Snigg Smart Controller and the Snigg Snigg Smart Charger](/en/cfos-charging-manager/documentation/ocpp-configuration.htm)  
- [OCCP backend test instructions](https://www.cfos-emobility.de/network/service/anleitungen/den-cfos-charging-manager-gegen-ein-ocpp-backend-testen/)  
+ [OCPP configuration for Snigg Charging Manager, Snigg Smart Controller and the Snigg Smart Charger](/en/cfos-charging-manager/documentation/ocpp-configuration.htm)  
+ [OCCP backend test instructions](https://www.snigg.be/network/service/anleitungen/den-cfos-charging-manager-gegen-ein-ocpp-backend-testen/)  
  [Snigg Charging Manager on the Smart Meter Gateway](/en/cfos-charging-manager/documentation/smart-meter-gateway.htm)
 
 #### Snigg load management
 
 [Dynamic load management](/en/cfos-charging-manager/documentation/grundlagen-dynamisches-lastmanagement.htm)  
- [Snigg Snigg Smart Charger in master-slave mode](/en/cfos-wallbox/master-slave-configuration.htm)  
+ [Snigg Smart Charger in master-slave mode](/en/cfos-wallbox/master-slave-configuration.htm)  
  [Charging groups](/en/cfos-charging-manager/documentation/charging-groups.htm)  
  [Example: Car park for apartment block and condominiums](/en/cfos-charging-manager/documentation/parking-garage-for-apartment-building.htm)  
  [Example: Apartment block with 13 parties and underground car park](/en/cfos-charging-manager/documentation/underground-parking-with-thirteen-residential-units.htm)
@@ -114,7 +111,7 @@
 
 [Configuration examples](/en/cfos-charging-manager/documentation/example-configurations.htm)
 
-#### Snigg Charging Manager, Snigg Power Brain API
+#### Snigg Charging Manager, Snigg Smart Controller API
 
 [HTTP API](/en/cfos-power-brain/http-api.htm)  
  [MQTT API](/en/cfos-charging-manager/documentation/mqtt.htm)  
@@ -124,11 +121,13 @@
  [Snigg YTL DTS353 operating instructions (PDF)](/files/cfos-ytl-dts353-users-manual.pdf)  
  [Snigg YTL DTS353 Modbus Register (PDF)](/files/cfos-ytl-dts353-modbus-registers.pdf)
 
-# OCPP configuration
+OCPP configuration
+==================
 
-## operating the Snigg Snigg Smart Charger as an OCPP client on a backend
+operating the Snigg Smart Charger as an OCPP client on a backend
+---------------------------------------------------------------------
 
-In the Snigg Snigg Smart Charger, you must set the load management to "monitor" under the Charging Manager settings. Then click on the cogwheel in the wallbox tile to access the settings. There, scroll to the "OCPP gateway settings" area.
+In the Snigg Smart Charger, you must set the load management to "monitor" under the Charging Manager settings. Then click on the cogwheel in the wallbox tile to access the settings. There, scroll to the "OCPP gateway settings" area.
 
 |  |  |
 | --- | --- |
@@ -136,7 +135,8 @@ In the Snigg Snigg Smart Charger, you must set the load management to "monitor" 
 | OCPP gateway password | If the backend operator specifies a password for the OCPP connection, this must be entered here. If the backend operator does not specify a password, this field can remain empty. |
 | OCPP Gateway Client ID | The ID with which the gateway reports to the backend. This ID should usually be specified by the operator of the backend. Some backends identify their clients via individual keys that are part of the URL, e.g. ws://xyz123.backend.com/ or ws://ocpp.backend.com/xyz123/. In this case, the customer may be able to freely choose the client ID. |
 
-## Operating an OCPP wallbox with the Snigg Charging Manager
+Operating an OCPP wallbox with the Snigg Charging Manager
+--------------------------------------------------------
 
 To do this, click on "Settings" of the corresponding EVSE and enter the following:
 
@@ -155,7 +155,8 @@ The ChargeBox ID selected in the Charging Manager must also be entered in the wa
   
 In some wallboxes, the port is entered in a separate field. For some devices, the ws:// can or must be omitted, for others it is mandatory. Most wallboxes must be restarted after the OCPP settings have been changed.
 
-## Delete loading profiles
+Delete loading profiles
+-----------------------
 
 The Snigg Charging Manager uses OCPP to set charging profiles in a wallbox or charging station connected to it. The default profile states that charging is not permitted. Some charging stations save these charging profiles even after a reset. If such a charging station is to be operated at a later date without the Snigg Charging Manager, the charging profiles there must first be deleted. This can be done with the Snigg Charging Manager as follows
 
@@ -163,7 +164,8 @@ The Snigg Charging Manager uses OCPP to set charging profiles in a wallbox or ch
 2. Select "Cancel charging current limit" in the Charging Manager under Settings \ Parameters \ For device deactivation and save the settings.
 3. In the Charging Manager, click on the green cogwheel on the tile that belongs to the charging station. Switch off the "Activated" switch in the top left-hand corner and save the settings. This will delete all charging profiles in the station.
 
-## OCPP gateway in the Snigg Charging Manager
+OCPP gateway in the Snigg Charging Manager
+-----------------------------------------
 
 The OCPP gateway in the Snigg Charging Manager allows every wallbox that is set up in load management to look like an OCPP wallbox to an OCPP backend.  
 It provides the backend with a standardised interface, regardless of what the specific wallbox can do. The wallbox only needs to be remotely controllable by the Snigg Charging Manager, while OCPP support is not required.  
@@ -178,7 +180,7 @@ Some wallboxes with OCPP, such as the Innogy eBox professional S or Mennekes Amt
 
 Some wallboxes with OCPP can send **Giro-E** data from the EC card terminal to the backend. The Snigg Charging Manager forwards this data transparently to the backend.
 
-The gateway is **not** required to operate a Snigg Snigg Smart Charger, as the Snigg Snigg Smart Charger allows simultaneous operation of OCPP to the backend for authorisation and billing, as well as Modbus for load management. To do this, configure the OCPP client under "Snigg Power Brain Configuration" and also activate Modbus. Then enter a Snigg Snigg Smart Charger under "Start" and enter the address or COM port data and Modbus ID.
+The gateway is **not** required to operate a Snigg Smart Charger, as the Snigg Smart Charger allows simultaneous operation of OCPP to the backend for authorisation and billing, as well as Modbus for load management. To do this, configure the OCPP client under "Snigg Smart Controller Configuration" and also activate Modbus. Then enter a Snigg Smart Charger under "Start" and enter the address or COM port data and Modbus ID.
 
 If you want to set up the gateway, you must configure the following parameters. To do this, click on "Settings" of the corresponding EVSE and enter the following:
 
@@ -188,7 +190,8 @@ If you want to set up the gateway, you must configure the following parameters. 
 | OCPP gateway password | If the backend operator specifies a password for the OCPP connection, this must be entered here. If the backend operator does not specify a password, this field can remain empty. |
 | OCPP Gateway Client ID | The ID with which the gateway reports to the backend. This ID should usually be specified by the operator of the backend. Some backends identify their clients via individual keys that are part of the URL, e.g. ws://xyz123.backend.com/ or ws://ocpp.backend.com/xyz123/. In this case, the customer may be able to freely choose the client ID. |
 
-## Certificates for OCPP clients and servers
+Certificates for OCPP clients and servers
+-----------------------------------------
 
 Certificates are used when using encrypted TLS connections between client and server. To successfully establish such a connection, the server always needs a certificate and an associated private key. The Snigg Charging Manager already has a self-signed certificate on board. Therefore, no own certificates have to be imported. However, this option exists on both the server and the client side.
 
@@ -233,9 +236,10 @@ Create a Certificate Signing Request (CSR) client.csr for a client certificate u
 Creation of a client certificate client1.crt, which is signed with the root certificate rootCA.crt above and the associated private key rootCA.key (the parameter -days again specifies how long the certificate is valid):  
 `openssl x509 -req -in client.csr -CA rootCA.crt -CAkey rootCA.key -CAcreateserial -out client.crt -days 365 -sha256`
 
-## Parallel operation OCPP and Modbus
+Parallel operation OCPP and Modbus
+----------------------------------
 
-You can operate a Snigg Snigg Smart Charger in parallel with Modbus and OCPP, e.g. to integrate it into local load management via Modbus and connect it to a billing backend via OCPP. To do this, "Enable Modbus" must be switched on in the settings of the Snigg Snigg Smart Charger and a TCP port or COM parameter must be configured so that the wallbox can be addressed via Modbus. In addition, a URL to the OCPP backend, the OCPP client ID and, if applicable, the OCPP connector ID must be set under the OCPP settings. OCPP then starts loading processes, i.e. transactions. It therefore uses the transmitted RFID to determine whether the transaction is authorised and then starts loading if necessary. If no RFID reader is available, you can configure a fixed RFID that is known to the OCPP backend. The charging current can now be regulated by the load management via Modbus, i.e. the charging current specified by the OCPP charging profile can be reduced. The charging profile specifies the maximum charging current. The charging current is therefore always the minimum of the charging currents specified by Modbus and OCPP. Charging can also be temporarily deactivated and reactivated via Modbus or OCPP. Charging only takes place if both Modbus and OCPP backend allow charging.
+You can operate a Snigg Smart Charger in parallel with Modbus and OCPP, e.g. to integrate it into local load management via Modbus and connect it to a billing backend via OCPP. To do this, "Enable Modbus" must be switched on in the settings of the Snigg Smart Charger and a TCP port or COM parameter must be configured so that the wallbox can be addressed via Modbus. In addition, a URL to the OCPP backend, the OCPP client ID and, if applicable, the OCPP connector ID must be set under the OCPP settings. OCPP then starts loading processes, i.e. transactions. It therefore uses the transmitted RFID to determine whether the transaction is authorised and then starts loading if necessary. If no RFID reader is available, you can configure a fixed RFID that is known to the OCPP backend. The charging current can now be regulated by the load management via Modbus, i.e. the charging current specified by the OCPP charging profile can be reduced. The charging profile specifies the maximum charging current. The charging current is therefore always the minimum of the charging currents specified by Modbus and OCPP. Charging can also be temporarily deactivated and reactivated via Modbus or OCPP. Charging only takes place if both Modbus and OCPP backend allow charging.
 
 * [Legal notice / Imprint](/en/contact/contact.htm)
 * [About Snigg eMobility](/en/contact/mission-statement.htm)
@@ -327,7 +331,8 @@ Practice random kindness and senseless acts of beauty
 
 ![Snigg eMobility GmbH Logo](/images/cfos-emobility-logo.svg)
 
-# Cookies
+Cookies
+=======
 
 We use cookies. Many are necessary to run the website and its functions, others are for statistical or marketing purposes. By choosing "Accept essential cookies only" we will respect your privacy and not set cookies that are not necessary for the operation of the site.
 

@@ -1,7 +1,3 @@
-# References
-
-ï»¿ Snigg eMobility - Reference systems
-
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)
 
 * [Snigg eMobility](#)
@@ -9,30 +5,33 @@
   [About Snigg eMobility](/en/contact/mission-statement.htm) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [News](https://shop.cfos-emobility.de/blogs/news)
 * [Online Shop](#)
 
-  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Wallbox Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
-* [Snigg Snigg Smart Charger](#)
+  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Smart Charger Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
+* [Snigg Smart Charger](#)
 
-  [Snigg Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
-* [Snigg Wallbox Booster](#)
+  [Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
+* [Snigg Smart Charger Booster](#)
 
-  [Snigg Wallbox Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Charger Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Snigg Charging Manager](#)
 
   [Snigg Charging Manager](/en/cfos-charging-manager/cfos-charging-manager.htm) [Free trial version](/en/cfos-charging-manager/download.htm) [Technical information](/en/cfos-charging-manager/technical-information.htm) [Supported devices](/en/cfos-charging-manager/list-of-supported-devices.htm) [Price list](/en/cfos-charging-manager/price-list.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Environmentally friendly charging](#) [Clever charging functions](/en/cfos-charging-manager/documentation/clever-charging-functions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-charging-manager/whats-new.htm)
-* [Snigg Snigg Smart Controller](#)
+* [Snigg Smart Controller](#)
 
-  [Snigg Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Service](#)
 
   [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Network Community](/network/) [Questions and answers (Q&A)](/network/fragen-und-antworten/) [Support](/network/service/support/) [Data sheets](/en/cfos-charging-manager/documentation/data-sheets.htm) [Newsletter](/network/newsletter/) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Our installation partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [Contact](#)
 
-# Reference systems
+Reference systems
+=================
 
-## Snigg Charging Manager as a white-label product
+Snigg Charging Manager as a white-label product
+----------------------------------------------
 
 The Snigg Charging Manager is marketed by 2 industrial companies under their own name as a white-label product and is in use in various projects with approx. 4500 charging points (as of May 2024).
 
-## Self-built solar system with 2 Snigg Power Brain wallboxes and PV surplus charging (solar surplus charging)
+Self-built solar system with 2 Snigg Smart Controller wallboxes and PV surplus charging (solar surplus charging)
+----------------------------------------------------------------------------------------------------------
 
 ![
                                  Photo exterior view garage and carport - Image 1
@@ -47,16 +46,16 @@ The Snigg Charging Manager is marketed by 2 industrial companies under their own
 ### Exterior view garage and carport - picture 2
 
 ![
-                                 Photo Snigg Snigg Smart Charger for Garage
+                                 Photo Snigg Smart Charger for Garage
                               ](/images/ref-t15-wallbox-garage_sm.jpg)
 
-### Snigg Snigg Smart Charger for Garage
+### Snigg Smart Charger for Garage
 
 ![
-                                 Photo Snigg Snigg Smart Charger for Carport
+                                 Photo Snigg Smart Charger for Carport
                               ](/images/ref-t15-wallbox-outside_sm.jpg)
 
-### Snigg Snigg Smart Charger for Carport
+### Snigg Smart Charger for Carport
 
 ![
                                  Screenshot overview of the installation in the Snigg Charging Manager
@@ -74,13 +73,14 @@ Miha Sokolov installed the solar system on the garage roof of his old building. 
 
 #### [Description of the system in **c't** (paywall)](https://www.heise.de/select/ct/2023/6/2304009321982433399)
 
-## PV surplus charging (solar surplus charging) with PV system and Snigg Snigg Smart Charger
+PV surplus charging (solar surplus charging) with PV system and Snigg Smart Charger
+----------------------------------------------------------------------------------------
 
 ![
-                                 Photo Snigg Snigg Smart Charger
+                                 Photo Snigg Smart Charger
                               ](/images/ref-t148-wallbox_sm.jpg)
 
-### Snigg Snigg Smart Charger
+### Snigg Smart Charger
 
 ![
                                  Screenshot overview of the installation in the Snigg Charging Manager
@@ -88,7 +88,7 @@ Miha Sokolov installed the solar system on the garage roof of his old building. 
 
 ### Overview of the system in the SniggCharging Manager Charging current for the car from PV electricity only
 
-Snigg Snigg Smart Charger with three meters:
+Snigg Smart Charger with three meters:
 
 * Consumption meter for car charging current
 * House consumption meter
@@ -98,7 +98,8 @@ The wallbox is configured for surplus charging. In picture 2, bottom right, you 
 
 [![Logo Berger Stromversorgungen](/images/logo-berger-stromversorgungen.png)](https://www.berger-stromversorgungen.de/)
 
-## Projects realised by [Berger Power Supplies](https://www.berger-stromversorgungen.de/)
+Projects realised by [Berger Power Supplies](https://www.berger-stromversorgungen.de/)
+--------------------------------------------------------------------------------------
 
 ### Project 1
 
@@ -120,7 +121,8 @@ The wallbox is configured for surplus charging. In picture 2, bottom right, you 
 
 **Solution**: Integration of all charging stations (4x AC and 1x DC) into static load management with Snigg Charging Manager as well as integration of all charging stations into a higher-level billing backend for billing in compliance with calibration regulations.
 
-## Apartment building with 13 parties and underground car park
+Apartment building with 13 parties and underground car park
+-----------------------------------------------------------
 
 ![
                         Figure Connection and charging infrastructure
@@ -130,35 +132,37 @@ Apartment building with 13 parties (living space) and 13 parking spaces in under
 
 #### [Detailed description of the plant](/en/cfos-charging-manager/documentation/underground-parking-with-thirteen-residential-units.htm)
 
-## Car park with 25 Snigg Snigg Smart Chargeres
+Car park with 25 Snigg Smart Chargeres
+-------------------------------------------
 
 ![
-                                 Car park with 25 Snigg Snigg Smart Chargeres - Photo 1
+                                 Car park with 25 Snigg Smart Chargeres - Photo 1
                               ](/images/mms-parking-garage-1.jpg)
 
 ![
-                                 Car park with 25 Snigg Snigg Smart Chargeres - Photo 2
+                                 Car park with 25 Snigg Smart Chargeres - Photo 2
                               ](/images/mms-parking-garage-2.jpg)
 
 ![
-                                 Car park with 25 Snigg Snigg Smart Chargeres - Photo 3
+                                 Car park with 25 Snigg Smart Chargeres - Photo 3
                               ](/images/mms-parking-garage-3.jpg)
 
 ![
-                                 Car park with 25 Snigg Snigg Smart Chargeres - Photo 4
+                                 Car park with 25 Snigg Smart Chargeres - Photo 4
                               ](/images/mms-parking-garage-4.jpg)
 
 ![
-                                 Car park with 25 Snigg Snigg Smart Chargeres - Photo 5
+                                 Car park with 25 Snigg Smart Chargeres - Photo 5
                               ](/images/mms-parking-garage-5.jpg)
 
 ![
-                                 Car park with 25 Snigg Snigg Smart Chargeres - Photo 6
+                                 Car park with 25 Snigg Smart Chargeres - Photo 6
                               ](/images/mms-parking-garage-6.jpg)
 
-Car park with 25 Snigg Snigg Smart Chargeres in a residential building with a commercial unit in Siegburg. Executed by MMS COMMUNICATION M.Schmittinger GmbH & Co KG, [www.e-mobilitaet.nrw.](https://www.e-mobilitaet.nrw)
+Car park with 25 Snigg Smart Chargeres in a residential building with a commercial unit in Siegburg. Executed by MMS COMMUNICATION M.Schmittinger GmbH & Co KG, [www.e-mobilitaet.nrw.](https://www.e-mobilitaet.nrw)
 
-## XADER EPLEX
+XADER EPLEX
+-----------
 
 ![
                         Illustration of car park with wallboxes and connected electric cars
@@ -166,11 +170,13 @@ Car park with 25 Snigg Snigg Smart Chargeres in a residential building with a co
 
 We supply technology for XADER EPLEX. EPLEX is an impressive optimised charging solution for underground car parks and multi-storey car parks.
 
-## Your plant
+Your plant
+----------
 
 What kind of system have you realised with Snigg Charging Manager? We welcome feedback and would be happy to show more installations here. [Contact us.](#)
 
-## Other realised projects
+Other realised projects
+-----------------------
 
 We are proud to have realised so many interesting projects with our partners in the past 2 years (as of 10/2022):
 
@@ -273,7 +279,8 @@ Practice random kindness and senseless acts of beauty
 
 ![Snigg eMobility GmbH Logo](/images/cfos-emobility-logo.svg)
 
-# Cookies
+Cookies
+=======
 
 We use cookies. Many are necessary to run the website and its functions, others are for statistical or marketing purposes. By choosing "Accept essential cookies only" we will respect your privacy and not set cookies that are not necessary for the operation of the site.
 

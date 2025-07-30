@@ -1,7 +1,3 @@
-# Charging rules
-
-ï»¿ Snigg eMobility - Snigg Charging Manager documentation - Charging rules
-
 [![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)
 
 * [Snigg eMobility](#)
@@ -9,37 +5,38 @@
   [About Snigg eMobility](/en/contact/mission-statement.htm) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [News](https://shop.cfos-emobility.de/blogs/news)
 * [Online Shop](#)
 
-  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Wallbox Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
-* [Snigg Snigg Smart Charger](#)
+  [Online Shop](https://shop.cfos-emobility.de/) ["It's worth spreading the word"](https://shop.cfos-emobility.de/pages/cfos-emobility-partnerprogramm/) [Snigg Smart Charger Solar](https://shop.cfos-emobility.de/collections/wallbox-solar) [Snigg Smart Charger Booster](https://shop.cfos-emobility.de/products/cfos-wallbox-booster) [Snigg Smart Controller](https://shop.cfos-emobility.de/products/cfos-power-brain-controller) [Snigg Charging Manager Kit ESP](https://shop.cfos-emobility.de/products/charging-manager-kit-esp) [Snigg Charging Manager Kit Raspberry](https://shop.cfos-emobility.de/products/charging-manager-kit) [Ladepunkt-Lizenz](https://shop.cfos-emobility.de/products/cfos-charging-manager-ladepunkt-lizenz)
+* [Snigg Smart Charger](#)
 
-  [Snigg Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
-* [Snigg Wallbox Booster](#)
+  [Snigg Smart Charger](/en/cfos-wallbox/cfos-wallbox.htm) [Modbus and S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm) [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [PV Surplus Charging (Solar Surplus Charging)](/en/cfos-charging-manager/documentation/surplus-charging.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-power-brain/whats-new.htm)
+* [Snigg Smart Charger Booster](#)
 
-  [Snigg Wallbox Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Charger Booster](/en/cfos-wallbox-booster/cfos-wallbox-booster.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Snigg Charging Manager](#)
 
   [Snigg Charging Manager](/en/cfos-charging-manager/cfos-charging-manager.htm) [Free trial version](/en/cfos-charging-manager/download.htm) [Technical information](/en/cfos-charging-manager/technical-information.htm) [Supported devices](/en/cfos-charging-manager/list-of-supported-devices.htm) [Price list](/en/cfos-charging-manager/price-list.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Environmentally friendly charging](#) [Clever charging functions](/en/cfos-charging-manager/documentation/clever-charging-functions.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [What is new?](/en/cfos-charging-manager/whats-new.htm)
-* [Snigg Snigg Smart Controller](#)
+* [Snigg Smart Controller](#)
 
-  [Snigg Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
+  [Snigg Smart Controller](/en/cfos-power-brain/cfos-power-brain.htm) [Modbus Registers](/en/cfos-power-brain/modbus-registers.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm)
 * [Service](#)
 
   [Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm) [Documentation](/en/cfos-charging-manager/documentation/documentation-links.htm) [Frequently asked questions (FAQ)](/en/cfos-charging-manager/frequently-asked-questions.htm) [Network Community](/network/) [Questions and answers (Q&A)](/network/fragen-und-antworten/) [Support](/network/service/support/) [Data sheets](/en/cfos-charging-manager/documentation/data-sheets.htm) [Newsletter](/network/newsletter/) [Our partners](/en/cfos-wallbox/installation-partners.htm) [Our installation partners](/en/cfos-wallbox/installation-partners.htm) [Reference systems](/en/contact/references.htm) [Contact](#)
 
-# Documentation
+Documentation
+=============
 
-#### Snigg Snigg Smart Charger - First steps
+#### Snigg Smart Charger - First steps
 
-[Snigg Snigg Smart Charger - Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm)  
- [Snigg Snigg Smart Charger - Quick guide (PDF)](/files/ng-kurzanleitung-web.pdf)  
- [Snigg Snigg Smart Charger Solar - Quick guide (PDF)](/files/ng-solar-kurzanleitung-web.pdf)  
- [Snigg Snigg Smart Charger Plug-In - Quick Guide (PDF)](/files/ng-p-kurzanleitung-de-web.pdf)  
- [Snigg Wallbox Booster - Quick guide (PDF)](/files/cfos-wallbox-booster-kurzanleitung-web.pdf)  
+[Snigg Smart Charger - Commissioning](/en/cfos-wallbox/inbetriebnahme/index.htm)  
+ [Snigg Smart Charger - Quick guide (PDF)](/files/ng-kurzanleitung-web.pdf)  
+ [Snigg Smart Charger Solar - Quick guide (PDF)](/files/ng-solar-kurzanleitung-web.pdf)  
+ [Snigg Smart Charger Plug-In - Quick Guide (PDF)](/files/ng-p-kurzanleitung-de-web.pdf)  
+ [Snigg Smart Charger Booster - Quick guide (PDF)](/files/cfos-wallbox-booster-kurzanleitung-web.pdf)  
  [Data sheets](/en/cfos-charging-manager/documentation/data-sheets.htm)  
  [Safe operation](/en/cfos-charging-manager/documentation/safe-operation.htm)  
  [Active power control by the distribution grid operator (Â§14a EnWG)](/en/cfos-charging-manager/documentation/active-power-control.htm)  
  [Environmentally conscious charging](/en/cfos-charging-manager/documentation/grundlagen-umweltbewusstes-laden.htm)  
- [![Bild Flagge UK/US](/images/flag_en.png) What's new in the latest firmware version of the Snigg Snigg Smart Charger?](/en/cfos-power-brain/whats-new.htm)
+ [![Bild Flagge UK/US](/images/flag_en.png) What's new in the latest firmware version of the Snigg Smart Charger?](/en/cfos-power-brain/whats-new.htm)
 
 #### Snigg Charging Manager - Configuration and energy management
 
@@ -51,7 +48,7 @@
  [Heat pumps](/en/cfos-charging-manager/documentation/heat-pumps.htm)  
  [Simulation](/en/cfos-charging-manager/documentation/charging-groups.htm#simulation)  
  [Bidirectional charging](/en/cfos-charging-manager/documentation/grundlagen-bidirektionales-laden.htm)  
- [Remedy memory shortage in the Snigg Snigg Smart Controller](/en/cfos-charging-manager/documentation/out-of-memory.htm)
+ [Remedy memory shortage in the Snigg Smart Controller](/en/cfos-charging-manager/documentation/out-of-memory.htm)
 
 #### Charging with solar power - PV surplus
 
@@ -59,7 +56,7 @@
  [Phase switching between 1-phase and 3-phase charging](/en/cfos-charging-manager/documentation/phase-switching.htm)  
  [Automatic phase changeover](/en/cfos-charging-manager/documentation/automatic-phase-switching.htm)  
  [Surplus shop](/en/cfos-charging-manager/documentation/surplus-charging.htm)  
- [Solar surplus loading instructions](https://www.cfos-emobility.de/network/service/anleitungen/solares-ueberschussladen-mit-dem-cfos-charging-manager/)  
+ [Solar surplus loading instructions](https://www.snigg.be/network/service/anleitungen/solares-ueberschussladen-mit-dem-cfos-charging-manager/)  
  [Instructions for some wallboxes, meters and inverters](/en/cfos-charging-manager/documentation/wallbox-instructions.htm)  
  [Example: Setting up a charging park and solar surplus with the help of a Raspberry Pi](/en/cfos-charging-manager/documentation/raspberry-pi-charging-park.htm)  
  [Test for yourself whether the Snigg Charging Manager is compatible with your inverter.](/en/cfos-charging-manager/documentation/meter-test.htm)
@@ -69,7 +66,7 @@
 [Dashboard and utilisation graphs](/en/cfos-charging-manager/documentation/usage-graphs.htm)  
  [User administration](/en/cfos-charging-manager/documentation/users.htm)  
  [RFID and PIN functions](/en/cfos-charging-manager/documentation/rfid-functions.htm)  
- [Instructions: Create user](https://www.cfos-emobility.de/network/service/anleitungen/einen-benutzer-anlegen-und-diesem-eine-rfid-karte-zuweisen/)  
+ [Instructions: Create user](https://www.snigg.be/network/service/anleitungen/einen-benutzer-anlegen-und-diesem-eine-rfid-karte-zuweisen/)  
  [Billing and use of calibrated meters](/en/cfos-charging-manager/documentation/billing-and-use-of-calibrated-meters.htm)  
  [Charging with kWh budgets](/en/cfos-charging-manager/documentation/budgets.htm)  
  [Price-controlled charging](/en/cfos-charging-manager/documentation/price-controlled-charging.htm)  
@@ -90,22 +87,22 @@
  [Instructions for installing the Snigg Charging Manager on a Raspberry Pi](/en/cfos-charging-manager/documentation/raspberry-pi-instructions.htm)  
  [![Bild Flagge UK/US](/images/flag_en.png) What's new in the current version of the Snigg Charging Manager?](/en/cfos-charging-manager/whats-new.htm)
 
-#### Snigg Wallbox in WLAN and connectivity
+#### Snigg Smart Charger in WLAN and connectivity
 
-[Help with WLAN problems](https://www.cfos-emobility.de/network/service/anleitungen/was-tun-wenn-ich-mich-mit-dem-wlan-hotspot-der-wallbox-nicht-verbinden-kann/)  
+[Help with WLAN problems](https://www.snigg.be/network/service/anleitungen/was-tun-wenn-ich-mich-mit-dem-wlan-hotspot-der-wallbox-nicht-verbinden-kann/)  
  [Instructions for Modbus cabling (PDF)](/files/modbus-verkabelung.pdf)  
- [Snigg Snigg Smart Controller with Modbus meter or S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm)  
- [connect Snigg Power Brain wallboxes with Mesh](/en/cfos-charging-manager/documentation/mesh.htm)  
+ [Snigg Smart Controller with Modbus meter or S0 meter](/en/cfos-power-brain/modbus-meter-s0-meter.htm)  
+ [connect Snigg Smart Controller wallboxes with Mesh](/en/cfos-charging-manager/documentation/mesh.htm)  
  [Installation options / cabling options](/en/cfos-charging-manager/documentation/connecting-multiple-wallboxes.htm)  
  [Operating Raspberry Pi with Huawei LTE stick/router](/en/cfos-charging-manager/documentation/lte-router-stick.htm)  
- [OCPP configuration for Snigg Charging Manager, Snigg Snigg Smart Controller and the Snigg Snigg Smart Charger](/en/cfos-charging-manager/documentation/ocpp-configuration.htm)  
- [OCCP backend test instructions](https://www.cfos-emobility.de/network/service/anleitungen/den-cfos-charging-manager-gegen-ein-ocpp-backend-testen/)  
+ [OCPP configuration for Snigg Charging Manager, Snigg Smart Controller and the Snigg Smart Charger](/en/cfos-charging-manager/documentation/ocpp-configuration.htm)  
+ [OCCP backend test instructions](https://www.snigg.be/network/service/anleitungen/den-cfos-charging-manager-gegen-ein-ocpp-backend-testen/)  
  [Snigg Charging Manager on the Smart Meter Gateway](/en/cfos-charging-manager/documentation/smart-meter-gateway.htm)
 
 #### Snigg load management
 
 [Dynamic load management](/en/cfos-charging-manager/documentation/grundlagen-dynamisches-lastmanagement.htm)  
- [Snigg Snigg Smart Charger in master-slave mode](/en/cfos-wallbox/master-slave-configuration.htm)  
+ [Snigg Smart Charger in master-slave mode](/en/cfos-wallbox/master-slave-configuration.htm)  
  [Charging groups](/en/cfos-charging-manager/documentation/charging-groups.htm)  
  [Example: Car park for apartment block and condominiums](/en/cfos-charging-manager/documentation/parking-garage-for-apartment-building.htm)  
  [Example: Apartment block with 13 parties and underground car park](/en/cfos-charging-manager/documentation/underground-parking-with-thirteen-residential-units.htm)
@@ -114,7 +111,7 @@
 
 [Configuration examples](/en/cfos-charging-manager/documentation/example-configurations.htm)
 
-#### Snigg Charging Manager, Snigg Power Brain API
+#### Snigg Charging Manager, Snigg Smart Controller API
 
 [HTTP API](/en/cfos-power-brain/http-api.htm)  
  [MQTT API](/en/cfos-charging-manager/documentation/mqtt.htm)  
@@ -124,7 +121,8 @@
  [Snigg YTL DTS353 operating instructions (PDF)](/files/cfos-ytl-dts353-users-manual.pdf)  
  [Snigg YTL DTS353 Modbus Register (PDF)](/files/cfos-ytl-dts353-modbus-registers.pdf)
 
-# Charging rules (for firmware versions from 1.25.2)
+Charging rules (for firmware versions from 1.25.2)
+==================================================
 
 ### The documentation of the charging rules for firmware versions **< 1.25.2** can be found [here](/en/cfos-charging-manager/documentation/charging-rules-old.htm).
 
@@ -132,7 +130,8 @@
                         Screenshot dialogue loading rules
                      ](/images/charging-rules-new.png)
 
-## General mode of operation
+General mode of operation
+-------------------------
 
 The charging rules of the Snigg Charging Manager work like small programmes. When the Snigg Charging Manager processes charging rules, it takes a start value as the "rule value" and then runs through all the charging rules from top to bottom. It checks the condition for each rule and, if it is fulfilled, executes the relevant action. This continues until either the end of the loading rules is reached or the "Finish" option is set for the action if the condition is fulfilled. The rule value determined up to that point is then returned. For wallboxes, the charging rules determine the **charging current per phase in mA** in this way and for battery storage systems the **charging or discharging power in W**.  
   
@@ -151,7 +150,8 @@ Note on automatic phase switching: If the wallbox is categorised as surplus char
   
 **Calculation of the surplus**: If the "PV surplus" option is activated, the condition "PV surplus >= expression" considers whether the surplus divided by the predicted charging phases is large enough for the condition to be fulfilled. If the "PV surplus" option is not active, the system checks whether the surplus >= expression on the respective phase. The same applies to the conditions "Grid supply", "Grid feed-in" and "Solar power". Here, if the "PV surplus" option is active, the sum of the currents divided by the predicted number of charging phases is checked against the expression, while if the option is not active, the current of the respective phase is checked. For the actions, if the "PV surplus" option is active, the sum of the currents of all phases divided by the predicted charging phases is delivered as the value for "Deliver surplus", "Deliver solar power", "Deliver grid supply" and "Deliver feed-in", while if the option is not active, the current of the respective phase is delivered. In short: For the usual case of PV surplus charging, it is recommended to activate the option. If the option is not active, the focus is on load management, i.e. the Snigg Charging Manager considers all three phases separately.
 
-## Each charge controller has the following general setting options
+Each charge controller has the following general setting options
+----------------------------------------------------------------
 
 **ID**: A freely selectable number. See below for more details.
 
@@ -165,7 +165,8 @@ Note on automatic phase switching: If the wallbox is categorised as surplus char
 
 Each loading rule has a condition and an action. The action is only executed if the condition is fulfilled. An action can also have the "End" option activated. In this case, processing of the charging rules is ended after the action has been executed and the current rule value is returned. If "Finish" is not set, the Charging Manager continues with the next charging rule. If it reaches the end of the list, it also returns the current rule value.
 
-## Conditions
+Conditions
+----------
 
 All conditions contain the "Not" option. If this is set, the action is executed if the condition is not fulfilled. Otherwise, the action is executed if the condition is fulfilled.
 
@@ -191,7 +192,7 @@ Some conditions have the option "Continue executing rule without fulfilled condi
 
 **Solar power**: The condition is fulfilled if the generated current per phase (for charging rules for cars) or the generated power across all phases (for battery storage) is greater than (or equal to) the specified value or the formula.
 
-**Input active**: The condition is fulfilled if the input with the specified number of the device with the specified device ID (E1, E2, ... for wallboxes, M1, M2, ... for meters) is active. Numbers count from 0. In this way, you can use charging rules in conjunction with switching inputs. The Snigg Snigg Smart Charger, for example, has 2 S0 inputs. To use these, you can set up a Snigg Power Brain S0 meter as a device with the "Display" role in the Snigg Charging Manager. Assuming this meter has the device ID M1, you can address the S0-1 input using device ID M1 and input number 1. You can find information on wiring the S0 inputs on the Snigg Power Brain on our page about [S0 inputs / S0 counters and Modbus counters](/en/cfos-power-brain/modbus-meter-s0-meter.htm). If, for example, you want to control the charging current using an external switch or use a ripple control receiver that switches a relay in accordance with the energy supplier's specifications, you can use charging rules with input. In this way, you can also activate a charging controller for PV surplus via input.
+**Input active**: The condition is fulfilled if the input with the specified number of the device with the specified device ID (E1, E2, ... for wallboxes, M1, M2, ... for meters) is active. Numbers count from 0. In this way, you can use charging rules in conjunction with switching inputs. The Snigg Smart Charger, for example, has 2 S0 inputs. To use these, you can set up a Snigg Smart Controller S0 meter as a device with the "Display" role in the Snigg Charging Manager. Assuming this meter has the device ID M1, you can address the S0-1 input using device ID M1 and input number 1. You can find information on wiring the S0 inputs on the Snigg Smart Controller on our page about [S0 inputs / S0 counters and Modbus counters](/en/cfos-power-brain/modbus-meter-s0-meter.htm). If, for example, you want to control the charging current using an external switch or use a ripple control receiver that switches a relay in accordance with the energy supplier's specifications, you can use charging rules with input. In this way, you can also activate a charging controller for PV surplus via input.
 
 **Environmentally friendly**: Here you can specify the maximum desired delay of the charging process and the expected charging time. The condition is considered fulfilled (and remains fulfilled) as soon as the Snigg Charging Manager has calculated a start time that is as environmentally friendly and grid-friendly as possible and this has been reached. See [Environmentally friendly charging](/de/cfos-charging-manager/documentation/environmentally-friendly-charging.htm).
 
@@ -199,7 +200,8 @@ Some conditions have the option "Continue executing rule without fulfilled condi
 
 **Always**: The condition is always fulfilled.
 
-## Actions
+Actions
+-------
 
 Actions are executed if the condition of the loading rule is fulfilled (or the "Not" option is set and the condition is not fulfilled).
 
@@ -226,17 +228,20 @@ The following variables are also available:
 
 **Go to**: The Snigg Charging Manager searches (from top to bottom) for the first charging rule whose ID is the same as the specified ID and continues processing the charging rules with this one. If it does not find one, it continues processing with the next charging rule. Caution: Avoid endless loops! Although the Charging Manager cancels the processing of the charging rules after a while, it may waste unnecessary (calculation) time. In combination with the conditions of the charging rules, you can use this action to create small rule programmes.
 
-## Undercutting
+Undercutting
+------------
 
 For some conditions, you can set a time in seconds for which the rule should continue to be executed even if the condition is not met. For example, you can define a rule that is executed when a switching input is set. If you then set a time, this rule will continue to be executed for N seconds even though the input is no longer set. In the case of PV surplus charging, you can use this time to prevent charging from being interrupted by brief clouds.
 
 The Charging Manager remembers in a flag called "\_undercut" whether this "undercut" is active for at least one rule. If the charging rules for wallboxes result in a value below the minimum charging current set in the wallbox and the "\_undercut" flag is set, the Snigg Charging Manager returns the minimum charging current as the rule value so that the car continues to be charged. However, you can also set or delete the "\_undercut" flag yourself using the charging rule (see above).
 
-## Charging control sets (from firmware 2.3.x)
+Charging control sets (from firmware 2.3.x)
+-------------------------------------------
 
 From version 2.3.x, loading rules are summarised in rule sets. Previous loading rules can be found under "Own loading rule set". This loading rule set can be exported as a file. When exporting, you should assign a unique ID to the rule set, as the Charging Manager manages rule sets by ID and overwrites existing ones with the same ID when importing. You can share such files with customised charging rules with other users. You can load such customised rule sets into your Snigg Charging Manager and then switch between your own rules and these rule sets. You can manage such charging rule files under Configuration -> Files. You can also copy a rule set to your "Own rule set" in order to change it. From version 2.3.x, the Snigg Charging Manager is supplied with a small range of charging rules that cover a few common requests from our users. In order to be able to use these rule sets as universally as possible, the following additional functions are available for the charging rules:
 
-## Additional functions for charging control sets
+Additional functions for charging control sets
+----------------------------------------------
 
 **Parameter**: You can define a parameter as an additional action. This is addressed via its rule ID and set to a formula or fixed value. There is also a name or help text for the meaning of the parameter. You can freely configure this parameter in the "Own loading rule set". If you want to access this parameter in another loading rule (further down in the rule set) in a formula, you receive the current value via "param(id)", where id is the loading rule ID of the parameter. This allows you to create parameterisable loading rules, i.e. you can change the parameter without having to change the loading rules further down.  
   
@@ -252,7 +257,8 @@ The condition is fulfilled between 10:00 and 12:00. If you use such a combinatio
 
 **Switch control set**: As a further action, you can switch to a different rule set using the loading rule.
 
-## Logging
+Logging
+-------
 
 To make it easier to create loading rules, you can set the log level to Information under "Configuration" -> "Logging" -> Loading rules. The following then appears in the log for each evaluated loading rule:  
   
@@ -371,7 +377,8 @@ Practice random kindness and senseless acts of beauty
 
 ![Snigg eMobility GmbH Logo](/images/cfos-emobility-logo.svg)
 
-# Cookies
+Cookies
+=======
 
 We use cookies. Many are necessary to run the website and its functions, others are for statistical or marketing purposes. By choosing "Accept essential cookies only" we will respect your privacy and not set cookies that are not necessary for the operation of the site.
 
