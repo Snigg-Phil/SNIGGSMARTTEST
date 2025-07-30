@@ -1,2 +1,52 @@
 structure:
   root: docs
+  files:
+    - snigg-charging-manager.md
+    - snigg-power-brain.md
+    - snigg-wallbox-booster.md
+    - snigg-wallbox.md
+    - active-power-control.md
+    - app-functions.md
+    - automatic-phase-switching.md
+    - battery-rules.md
+    - billing-and-use-of-calibrated-meters.md
+    - budgets.md
+    - charging-groups.md
+    - charging-rules.md
+    - clever-charging-functions.md
+    - cloud.md
+    - com-port-meter.md
+    - configuration.md
+    - connecting-multiple-wallboxes.md
+    - contact.md
+    - data-sheets.md
+    - documentation-links.md
+    - download.md
+    - environmentally-friendly-charging.md
+    - example-configurations.md
+    - formulas.md
+    - frequently-asked-questions.md
+    - grundlagen-bidirektionales-laden.md
+    - grundlagen-dynamisches-lastmanagement.md
+    - grundlagen-solares-ueberschussladen.md
+    - grundlagen-umweltbewusstes-laden.md
+    - heat-pumps.md
+    - index.md
+    - installation.md
+    - mqtt.md
+    - references.md
+    - rfid-functions.md
+    - safe-operation.md
+    - sitemap.md
+    - smart-meter-gateway.md
+    - start-page.md
+    - sunspec-server.md
+    - surplus-charging.md
+    - system-configuration.md
+    - technical-information.md
+    - underg
+
+git add .gitbook.yaml
+git commit -m "📚 Force explicit file structure in GitBook"
+git push
+
