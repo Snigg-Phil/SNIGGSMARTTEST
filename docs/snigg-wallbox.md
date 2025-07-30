@@ -1,4 +1,4 @@
-[![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/cfos-emobility-logo.svg)](/en/index.htm)
+[![Snigg eMobility GmbH logo](/images/Snigg-emobility-logo.svg) ![Snigg eMobility GmbH logo](/images/Snigg-emobility-logo.svg)](/en/index.htm)
 
 * [Snigg eMobility](#)
 
