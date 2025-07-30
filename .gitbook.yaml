@@ -44,9 +44,11 @@ structure:
     - surplus-charging.md
     - system-configuration.md
     - technical-information.md
-    - underg
-
-git add .gitbook.yaml
-git commit -m "📚 Force explicit file structure in GitBook"
-git push
-
+    - underground-parking-with-thirteen-residential-units.md
+    - usage-graphs.md
+    - user-defined-meters.md
+    - users.md
+    - virtual-metering-points.md
+    - vzlogger.md
+    - wallbox-instructions.md
+    - whats-new.md
